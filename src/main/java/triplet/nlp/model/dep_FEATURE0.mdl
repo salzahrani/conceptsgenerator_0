@@ -1,0 +1,96 @@
+<!--Feature template for dependency parsing in English --><feature_template>
+    <cutoff feature="2" label="4"/>
+    <lexica cutoff="1" label="punct" type="punctuation"/>
+    <lexica cutoff="0" label="root" type="root"/>
+
+    <!-- basic features -->
+    <feature f0="l:f" n="1"/>
+    <feature f0="b:f" n="1"/>
+    <feature f0="l:m" n="1"/>
+    <feature f0="b:m" n="1"/>
+    <feature f0="l:p" n="1"/>
+    <feature f0="b:p" n="1"/>
+
+    <feature f0="l:p" f1="l:m" n="2"/>
+    <feature f0="b:p" f1="b:m" n="2"/>
+    
+    <feature f0="l:p" f1="b:p" n="2"/>
+    <feature f0="l:p" f1="b:m" n="2"/>
+    <feature f0="l:m" f1="b:p" n="2"/>
+    <feature f0="l:m" f1="b:m" n="2"/>
+
+    <!-- 1-gram features -->
+    <feature f0="s-1:m" n="1"/>
+    <feature f0="l-1:m" n="1"/>
+    <feature f0="l+1:m" n="1"/>
+    <feature f0="b-2:m" n="1"/>
+    <feature f0="b-1:m" n="1"/>
+    <feature f0="b+1:m" n="1"/>
+    <feature f0="b+2:m" n="1"/>
+
+    <feature f0="l-2:p" n="1"/>
+    <feature f0="l-1:p" n="1"/>
+    <feature f0="l+1:p" n="1"/>
+    <feature f0="l+2:p" n="1"/>
+    <feature f0="b-1:p" n="1"/>
+    <feature f0="b+1:p" n="1"/>
+
+    <!-- 2-gram features -->
+    <feature f0="b+1:p" f1="l:p" n="2"/>
+    <feature f0="s-1:p" f1="l:p" n="2"/>
+    <feature f0="s-1:p" f1="b:p" n="2"/>
+    
+    <feature f0="b-1:p" f1="l:m" n="2"/>
+    <feature f0="b+1:p" f1="l:m" n="2"/>
+    <feature f0="b+1:p" f1="b:m" n="2"/>
+
+    <feature f0="b+1:m" f1="l:p" n="2"/>
+    <feature f0="b+1:m" f1="b:p" n="2"/>
+
+    <feature f0="l+1:m" f1="l:m" n="2"/>
+    <feature f0="l+1:m" f1="b:m" n="2"/>
+
+    <!-- 3-gram features -->
+    <feature f0="s-2:p" f1="s-1:p" f2="l:p" n="3"/>
+    <feature f0="l-2:p" f1="l-1:p" f2="l:p" n="3"/>
+    <feature f0="l-1:p" f1="l+1:p" f2="l:p" n="3"/>
+    <feature f0="l+1:p" f1="l+2:p" f2="l:p" n="3"/>
+    <feature f0="b-1:p" f1="b+1:p" f2="b:p" n="3"/>
+    <feature f0="b+1:p" f1="b+2:p" f2="b:p" n="3"/>
+
+    <feature f0="s-3:p" f1="l:p" f2="b:p" n="3"/>
+    <feature f0="s-2:p" f1="l:p" f2="b:p" n="3"/>
+    <feature f0="l-1:p" f1="l:p" f2="b:p" n="3"/>
+    <feature f0="l+1:p" f1="l:p" f2="b:p" n="3"/>
+    <feature f0="b-2:p" f1="l:p" f2="b:p" n="3"/>
+    <feature f0="b-1:p" f1="l:p" f2="b:p" n="3"/>
+    <feature f0="b+1:p" f1="l:p" f2="b:p" n="3"/>
+    <feature f0="b+2:p" f1="l:p" f2="b:p" n="3"/>
+    <feature f0="b+3:p" f1="l:p" f2="b:p" n="3"/>
+    
+    <!-- structure features -->
+    <feature f0="l:d" n="1"/>
+    <feature f0="l_lmd:d" n="1"/>
+    <feature f0="l_rmd:d" n="1"/>
+    <feature f0="b_lmd:d" n="1"/>
+    
+    <feature f0="l_h:p" n="1"/>
+    <feature f0="l:d" f1="b:m" n="2"/>
+
+    <feature f0="l_h:p" f1="l:p" f2="b:p" n="3"/>
+    <feature f0="l_lmd:p" f1="l:p" f2="b:p" n="3"/>
+    <feature f0="b_lmd:p" f1="l:p" f2="b:p" n="3"/>
+    <feature f0="l_lmd:d" f1="l:p" f2="b:p" n="3"/>
+    <feature f0="l_lns:d" f1="l:p" f2="b:p" n="3"/>
+
+    <!-- binary features -->
+    <feature f0="l:b0" n="1" note="lambda is the leftmost token" t="b"/>
+    <feature f0="b:b1" n="1" note="beta is the righttmost token" t="b"/>
+    <feature f0="l:b2" n="1" note="lambda and beta are adjacent" t="b"/>
+    
+    <!-- punctuation features -->
+    <feature f0="l:lnpl" n="1" note="left-nearest  punctuation of lambda"/>
+    <feature f0="b:lnpb" n="1" note="left-nearest  punctuation of beta"/>
+    <feature f0="b:rnpb" n="1" note="right-nearest punctuation of beta"/>
+    <feature f0="l:rnpl" n="1" note="right-nearest punctuation of lambda" visible="false"/>
+</feature_template>

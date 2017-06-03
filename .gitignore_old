@@ -1,0 +1,13 @@
+src/main/java/triplet/nlp/model/pos_MODEL0.mdl
+src/main/java/triplet/nlp/model/srl_MODEL1.mdl
+src/main/java/triplet/nlp/model/dep_MODEL0.mdl
+src/main/java/triplet/nlp/model/srl_MODEL0.mdl
+jars/CleanNLPJARS/stanford-corenlp-3.4-models.jar
+jars/AllCombinationJAR/stanford-corenlp-models-2011-12-27.jar
+
+git rm --cached src/main/java/triplet/nlp/model/pos_MODEL0.mdl
+git rm --cached src/main/java/triplet/nlp/model/srl_MODEL1.mdl
+git rm --cached src/main/java/triplet/nlp/model/dep_MODEL0.mdl
+git rm --cached src/main/java/triplet/nlp/model/srl_MODEL0.mdl
+git rm --cached jars/CleanNLPJARS/stanford-corenlp-3.4-models.jar
+git rm --cached jars/AllCombinationJAR/stanford-corenlp-models-2011-12-27.jar

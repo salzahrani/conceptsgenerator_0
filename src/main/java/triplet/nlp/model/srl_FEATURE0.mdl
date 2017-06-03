@@ -1,0 +1,75 @@
+<!--Feature template for dependency parsing in English --><feature_template>
+	<cutoff down="5" feature="3" label="2" up="0"/>
+
+	<!-- basic features -->
+	<feature f0="a:f" n="1"/>
+	<feature f0="a:m" n="1"/>
+	<feature f0="a:p" n="1"/>
+	<feature f0="p:f" n="1"/>
+	<feature f0="p:m" n="1"/>
+	<feature f0="p:p" n="1"/>
+	
+	<feature f0="a:p" f1="a:d" n="2"/>
+	<feature f0="p:p" f1="p:d" n="2"/>
+	
+	<feature f0="a:p" f1="p:m" n="2"/>
+	<feature f0="a:m" f1="p:p" n="2"/>
+	<feature f0="a:m" f1="p:m" n="2"/>
+	<feature f0="a:d" f1="p:d" n="2"/>
+
+	<!-- 1-gram features -->
+	<feature f0="a-1:p" n="1"/>
+	<feature f0="a-1:m" n="1"/>
+	<feature f0="a+1:m" n="1"/>
+	<feature f0="a_h:m" n="1"/>
+	<feature f0="a_lmd:p" n="1"/>
+	<feature f0="a_rmd:m" n="1"/>
+	<feature f0="a_lns:m" n="1"/>
+	<feature f0="a_rns:p" n="1"/>
+	<feature f0="a_rns:m" n="1"/>
+
+	<feature f0="p-1:p" n="1"/>
+	<feature f0="p-1:m" n="1"/>
+	<feature f0="p_lmd:p" n="1"/>
+	<feature f0="p_lmd:m" n="1"/>
+	<feature f0="p_h:m" f1="p_h:p" n="2"/>
+	<feature f0="p+1:m" f1="p+1:p" n="2"/>
+	<feature f0="p_rmd:m" f1="p_rmd:p" n="2"/>
+
+	<!-- 2-gram features -->
+	<feature f0="a_rns:p" f1="a:p" n="2"/>
+	<feature f0="a_lmd:p" f1="a:p" n="2"/>
+	<feature f0="p_lmd:p" f1="p:p" n="2"/>
+	
+	<feature f0="a_h:m" f1="a:d" n="2"/>
+	<feature f0="a_lmd:m" f1="a:d" n="2"/>
+	<feature f0="a_rmd:p" f1="a:d" n="2"/>
+	<feature f0="a_rmd:m" f1="a:d" n="2"/>
+	
+	<!-- path features -->
+	<feature f0="p:ptp0" n="1"/>
+	<feature f0="p:ptd0" f1="p:p" n="2"/>
+	<feature f0="p:ptn0" f1="p:p" n="2"/>
+	
+	<!-- subcategorization features -->
+	<feature f0="p:scd1" n="1"/>
+	<feature f0="p:scd2" n="1"/>
+	<feature f0="p_h:scd1" n="1"/>
+	<feature f0="p_h:scd2" n="1"/>
+		
+	<!-- argument features -->
+	<feature f0="p:m" f1="p:argn0" n="2"/>
+	<feature f0="p:m" f1="p:argn1" n="2"/>
+	<feature f0="p:m" f1="p:argn0" f2="p:argn1" n="3"/>
+
+	<!-- extra features -->
+	<feature f0="p:ds" n="1" t="s"/>
+	<feature f0="a:n" n="1" note="distance from P"/>
+	
+	<!-- binary features -->
+	<feature f0="a:b0" n="1" note="A is a dependent of P" t="b"/>
+	<feature f0="a:b1" n="1" note="P is a dependent of A" t="b"/>
+	<feature f0="a:b2" n="1" note="P is a dependent of LCA" t="b" visible="false"/>
+	<feature f0="a:b3" n="1" note="A is a descendent of P" t="b" visible="false"/>
+	<feature f0="a:b4" n="1" note="P is a descendent of A" t="b" visible="false"/>
+</feature_template>

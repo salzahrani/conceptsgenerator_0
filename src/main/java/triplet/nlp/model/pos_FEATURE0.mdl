@@ -1,0 +1,59 @@
+<!--Feature template for POS tagging in English for the CoNLL'09 shared task --><feature_template>
+    <cutoff ambiguity="0.1" df="1" feature="2" label="0"/>
+
+    <!-- 1-gram features -->
+    <feature f0="i-3:sf" n="1"/>
+    <feature f0="i-2:sf" n="1"/>
+    <feature f0="i-1:sf" n="1"/>
+    <feature f0="i:sf" n="1"/>
+    <feature f0="i+1:sf" n="1"/>
+    <feature f0="i+2:sf" n="1"/>
+    <feature f0="i+3:sf" n="1"/>
+
+    <feature f0="i-3:p" n="1"/>
+    <feature f0="i-2:p" n="1"/>
+    <feature f0="i-1:p" n="1"/>
+    <feature f0="i:a" n="1"/>
+    <feature f0="i+1:a" n="1"/>
+    <feature f0="i+2:a" n="1"/>
+    <feature f0="i+3:a" n="1"/>
+    
+    <!-- 2-gram features -->
+    <feature f0="i-2:lsf" f1="i-1:lsf" n="2"/>
+    <feature f0="i-1:lsf" f1="i:lsf" n="2"/>
+    <feature f0="i:lsf" f1="i+1:lsf" n="2"/>
+    <feature f0="i+1:lsf" f1="i+2:lsf" n="2"/>
+    <feature f0="i-1:lsf" f1="i+1:lsf" n="2"/>
+    
+    <feature f0="i-2:p" f1="i-1:p" n="2"/>
+    <feature f0="i+1:a" f1="i+2:a" n="2"/>
+    <feature f0="i-1:p" f1="i+1:a" n="2"/>
+    
+    <!-- 3-gram features -->
+    <feature f0="i-2:lsf" f1="i-1:lsf" f2="i:lsf" n="3"/>
+    <feature f0="i-1:lsf" f1="i:lsf" f2="i+1:lsf" n="3"/>
+    <feature f0="i:lsf" f1="i+1:lsf" f2="i+2:lsf" n="3"/>
+    <feature f0="i-2:lsf" f1="i-1:lsf" f2="i+1:lsf" n="3"/>
+    <feature f0="i-1:lsf" f1="i+1:lsf" f2="i+2:lsf" n="3"/>
+    
+    <feature f0="i-2:p" f1="i-1:p" f2="i:a" n="3"/>
+    <feature f0="i-1:p" f1="i:a" f2="i+1:a" n="3"/>
+    <feature f0="i-2:p" f1="i-1:p" f2="i+1:a" n="3"/>    
+    <feature f0="i-1:p" f1="i+1:a" f2="i+2:a" n="3"/>
+    
+    <!-- prefix/suffix features -->
+    <feature f0="i:pf3" n="1" t="s"/>
+    <feature f0="i:sf4" n="1" t="s"/>
+    
+    <!-- binary features -->
+    <feature f0="i:b0" n="1" note="all upper case" t="b"/>
+    <feature f0="i:b1" n="1" note="all lower case" t="b"/>
+    <feature f0="i:b2" n="1" note="begins with a capital letter" t="b"/>
+    <feature f0="i:b3" n="1" note="contains a capital letter not at the beginning" t="b"/>
+    <feature f0="i:b4" n="1" note="contains more than one capital letters not at the beginning" t="b"/>
+    <feature f0="i:b5" n="1" note="contains a period" t="b"/>
+    <feature f0="i:b6" n="1" note="contains a number" t="b"/>
+    <feature f0="i:b7" n="1" note="contains a hyphen" t="b"/>
+    <feature f0="i:b8" n="1" note="input is the last token" t="b"/>
+    <feature f0="i:b9" n="1" note="input is the first token" t="b"/>
+</feature_template>

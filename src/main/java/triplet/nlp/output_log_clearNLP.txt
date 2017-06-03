@@ -1,0 +1,2622 @@
+Processed text is :  Al-Tabi ` in Army .
+********* Finished sent # 33259 **************
+textid: 1486Input text is :  In the name of God, the Merciful, the Compassionate, text id : 1486
+***********output************* In the name of God, the Merciful, the Compassionate, 
+
+ START TIME IS :14:19:00.166
+
+ END TIME IS :14:19:00.259
+start of sentence
+14:19:00.259
+end of sentence
+14:19:00.261
+Processed text is :  In the name of God , the Merciful , the Compassionate ,
+********* Finished sent # 33260 **************
+textid: 1486Input text is :  We, the families of the martyrs, confirm the following: text id : 1486
+***********output************* We, the families of the martyrs, confirm the following: 
+
+ START TIME IS :14:19:00.261
+
+ END TIME IS :14:19:02.387
+start of sentence
+14:19:02.387
+end of sentence
+14:19:02.389
+Processed text is :  the families of the martyrs , the families of the martyrs , confirm the following :
+********* Finished sent # 33261 **************
+textid: 1217Input text is : text id : 1217
+***********output*************
+
+ START TIME IS :14:19:02.389
+
+ END TIME IS :14:19:02.389
+start of sentence
+14:19:02.389
+end of sentence
+14:19:02.390
+Processed text is : 
+********* Finished sent # 33262 **************
+textid: 1498Input text is :  5. Second Al-Anbar Sector text id : 1498
+***********output************* 5. Second Al-Anbar Sector 
+
+ START TIME IS :14:19:02.390
+
+ END TIME IS :14:19:02.406
+start of sentence
+14:19:02.406
+end of sentence
+14:19:02.408
+END OF EXECUTION 
+Processed text is :  5 . Second Al-Anbar Sector
+********* Finished sent # 33263 **************
+textid: 1217Input text is : text id : 1217
+***********output*************
+
+ START TIME IS :14:19:02.423
+
+ END TIME IS :14:19:02.423
+start of sentence
+14:19:02.423
+end of sentence
+14:19:02.424
+Processed text is : 
+********* Finished sent # 33264 **************
+textid: 1488Input text is :  The Situation on the Ground text id : 1488
+***********output************* The Situation on the Ground 
+
+ START TIME IS :14:19:02.425
+
+ END TIME IS :14:19:02.441
+start of sentence
+14:19:02.441
+end of sentence
+14:19:02.442
+Processed text is :  The Situation on the Ground
+********* Finished sent # 33265 **************
+textid: 1417Input text is : text id : 1417
+***********output*************
+
+ START TIME IS :14:19:02.442
+
+ END TIME IS :14:19:02.443
+start of sentence
+14:19:02.443
+end of sentence
+14:19:02.445
+Processed text is : 
+********* Finished sent # 33266 **************
+textid: 1487Input text is :  [Poetic verse omitted] text id : 1487
+***********output************* [Poetic verse omitted] 
+
+ START TIME IS :14:19:02.446
+
+ END TIME IS :14:19:02.476
+start of sentence
+14:19:02.476
+end of sentence
+14:19:02.477
+Processed text is :  -LSB- Poetic verse omitted -RSB-
+********* Finished sent # 33267 **************
+textid: 1488Input text is :  The Great Escape text id : 1488
+***********output************* The Great Escape 
+
+ START TIME IS :14:19:02.477
+
+ END TIME IS :14:19:02.486
+start of sentence
+14:19:02.486
+end of sentence
+14:19:02.487
+Processed text is :  The Great Escape
+********* Finished sent # 33268 **************
+textid: 1488Input text is :  General Mobilization text id : 1488
+***********output************* General Mobilization 
+
+ START TIME IS :14:19:02.487
+
+ END TIME IS :14:19:02.493
+start of sentence
+14:19:02.493
+end of sentence
+14:19:02.495
+Processed text is :  General Mobilization
+********* Finished sent # 33269 **************
+textid: 1417Input text is : text id : 1417
+***********output*************
+
+ START TIME IS :14:19:02.495
+
+ END TIME IS :14:19:02.495
+start of sentence
+14:19:02.495
+end of sentence
+14:19:02.496
+Processed text is : 
+********* Finished sent # 33270 **************
+textid: 1423Input text is : text id : 1423
+***********output*************
+
+ START TIME IS :14:19:02.496
+
+ END TIME IS :14:19:02.496
+start of sentence
+14:19:02.496
+end of sentence
+14:19:02.497
+Processed text is : 
+********* Finished sent # 33271 **************
+textid: 1488Input text is :  Abdallah Ibn-Muhammad. text id : 1488
+***********output************* Abdallah Ibn-Muhammad. 
+
+ START TIME IS :14:19:02.498
+
+ END TIME IS :14:19:02.512
+start of sentence
+14:19:02.512
+end of sentence
+14:19:02.516
+END OF EXECUTION 
+Processed text is :  Abdallah Ibn-Muhammad .
+********* Finished sent # 33272 **************
+textid: 1488Input text is :  30 Shawwal 1431 [corresponding to 9 October 2010]. text id : 1488
+***********output************* 30 Shawwal 1431 [corresponding to 9 October 2010]. 
+
+ START TIME IS :14:19:02.529
+
+ END TIME IS :14:19:02.720
+start of sentence
+14:19:02.720
+end of sentence
+14:19:02.727
+END OF EXECUTION 
+Processed text is :  30 Shawwal 1431 -LSB- corresponding to 9 October 2010 -RSB- .
+********* Finished sent # 33273 **************
+textid: 1488Input text is :  The Arabian Peninsula.  </p>text id : 1488
+***********output************* The Arabian Peninsula.  </p>
+
+ START TIME IS :14:19:02.739
+
+ END TIME IS :14:19:02.755
+start of sentence
+14:19:02.755
+end of sentence
+14:19:02.759
+END OF EXECUTION 
+Processed text is :  The Arabian Peninsula . </p>
+********* Finished sent # 33274 **************
+textid: 1489Input text is : "Al-Rashidin Army Disables US Occupation Minesweeper in Southern Baghdad" -- "Jaysh al-Rashidin," user number 1953, posted the statement] text id : 1489
+"Al-Rashidin Army Disables US Occupation Minesweeper in Southern Baghdad" -- "Jaysh al-Rashidin," user number 1953, posted the statement] 
+***********output************* "Jaysh al-Rashidin," user number 1953, posted the statement] 
+
+ START TIME IS :14:19:02.770
+
+ END TIME IS :14:19:03.101
+start of sentence
+14:19:03.101
+end of sentence
+14:19:03.102
+Processed text is :  `` Jaysh al-Rashidin , '' user number 1953 , posted the statement -RSB-
+********* Finished sent # 33275 **************
+textid: 1489Input text is :  In the Name of God, the Merciful, the Compassionate, text id : 1489
+***********output************* In the Name of God, the Merciful, the Compassionate, 
+
+ START TIME IS :14:19:03.102
+
+ END TIME IS :14:19:03.206
+start of sentence
+14:19:03.206
+end of sentence
+14:19:03.208
+Processed text is :  In the Name of God , the Merciful , the Compassionate ,
+********* Finished sent # 33276 **************
+textid: 1489Input text is :  In the Name of God the Merciful, the Compassionate, text id : 1489
+***********output************* In the Name of God the Merciful, the Compassionate, 
+
+ START TIME IS :14:19:03.208
+
+ END TIME IS :14:19:03.299
+start of sentence
+14:19:03.299
+end of sentence
+14:19:03.300
+Processed text is :  In the Name of God the Merciful , the Compassionate ,
+********* Finished sent # 33277 **************
+textid: 1489Input text is :  Abu-Al-Abbass  Isa Bakr al-Iraqi  Media Office of the al-Rashidin Army  Jihad and Change Front text id : 1489
+***********output************* Abu-Al-Abbass  Isa Bakr al-Iraqi  Media Office of the al-Rashidin Army  Jihad and Change Front 
+
+ START TIME IS :14:19:03.301
+
+ END TIME IS :14:19:05.365
+start of sentence
+14:19:05.365
+end of sentence
+14:19:05.367
+Processed text is :  Abu-Al-Abbass Isa Bakr al-Iraqi Media Office of the al-Rashidin Army Jihad and Change Front
+********* Finished sent # 33278 **************
+textid: 1490Input text is :  In the Name of God, the Merciful, the Compassionate text id : 1490
+***********output************* In the Name of God, the Merciful, the Compassionate 
+
+ START TIME IS :14:19:05.367
+
+ END TIME IS :14:19:05.458
+start of sentence
+14:19:05.458
+end of sentence
+14:19:05.460
+Processed text is :  In the Name of God , the Merciful , the Compassionate
+********* Finished sent # 33279 **************
+textid: 1490Input text is :  General Command of the Armed Forces text id : 1490
+***********output************* General Command of the Armed Forces 
+
+ START TIME IS :14:19:05.460
+
+ END TIME IS :14:19:05.481
+start of sentence
+14:19:05.481
+end of sentence
+14:19:05.482
+Processed text is :  General Command of the Armed Forces
+********* Finished sent # 33280 **************
+textid: 1490Input text is :  Iraqi Army text id : 1490
+***********output************* Iraqi Army 
+
+ START TIME IS :14:19:05.482
+
+ END TIME IS :14:19:05.490
+start of sentence
+14:19:05.490
+end of sentence
+14:19:05.491
+Processed text is :  Iraqi Army
+********* Finished sent # 33281 **************
+textid: 1490Input text is :  Statement No. 215 text id : 1490
+***********output************* Statement No. 215 
+
+ START TIME IS :14:19:05.491
+
+ END TIME IS :14:19:05.501
+start of sentence
+14:19:05.501
+end of sentence
+14:19:05.503
+Processed text is :  Statement No. 215
+********* Finished sent # 33282 **************
+textid: 1217Input text is : text id : 1217
+***********output*************
+
+ START TIME IS :14:19:05.503
+
+ END TIME IS :14:19:05.503
+start of sentence
+14:19:05.503
+end of sentence
+14:19:05.504
+Processed text is : 
+********* Finished sent # 33283 **************
+textid: 1490Input text is : God is Great text id : 1490
+***********output*************God is Great 
+
+ START TIME IS :14:19:05.504
+
+ END TIME IS :14:19:05.514
+start of sentence
+14:19:05.514
+end of sentence
+14:19:05.515
+Processed text is :  God is Great
+********* Finished sent # 33284 **************
+textid: 1490Input text is :  General Command of the Iraqi Army text id : 1490
+***********output************* General Command of the Iraqi Army 
+
+ START TIME IS :14:19:05.515
+
+ END TIME IS :14:19:05.534
+start of sentence
+14:19:05.534
+end of sentence
+14:19:05.536
+Processed text is :  General Command of the Iraqi Army
+********* Finished sent # 33285 **************
+textid: 1423Input text is : text id : 1423
+***********output*************
+
+ START TIME IS :14:19:05.536
+
+ END TIME IS :14:19:05.536
+start of sentence
+14:19:05.536
+end of sentence
+14:19:05.538
+Processed text is : 
+********* Finished sent # 33286 **************
+textid: 1492Input text is :  In the name of God, the Merciful, the Compassionate text id : 1492
+***********output************* In the name of God, the Merciful, the Compassionate 
+
+ START TIME IS :14:19:05.538
+
+ END TIME IS :14:19:05.603
+start of sentence
+14:19:05.603
+end of sentence
+14:19:05.605
+Processed text is :  In the name of God , the Merciful , the Compassionate
+********* Finished sent # 33287 **************
+textid: 1499Input text is :  9. Second Salah-al-Din Sector text id : 1499
+***********output************* 9. Second Salah-al-Din Sector 
+
+ START TIME IS :14:19:05.605
+
+ END TIME IS :14:19:05.620
+start of sentence
+14:19:05.620
+end of sentence
+14:19:05.624
+END OF EXECUTION 
+Processed text is :  9 . Second Salah-al-Din Sector
+********* Finished sent # 33288 **************
+textid: 1330Input text is : text id : 1330
+***********output*************
+
+ START TIME IS :14:19:05.638
+
+ END TIME IS :14:19:05.638
+start of sentence
+14:19:05.639
+end of sentence
+14:19:05.640
+Processed text is : 
+********* Finished sent # 33289 **************
+textid: 1424Input text is : text id : 1424
+***********output*************
+
+ START TIME IS :14:19:05.640
+
+ END TIME IS :14:19:05.640
+start of sentence
+14:19:05.640
+end of sentence
+14:19:05.641
+Processed text is : 
+********* Finished sent # 33290 **************
+textid: 1424Input text is : text id : 1424
+***********output*************
+
+ START TIME IS :14:19:05.641
+
+ END TIME IS :14:19:05.641
+start of sentence
+14:19:05.641
+end of sentence
+14:19:05.642
+Processed text is : 
+********* Finished sent # 33291 **************
+textid: 1492Input text is :  Saturday 8 Thu al-Qi'dah 1431, corresponding to 16 October 2010 text id : 1492
+***********output************* Saturday 8 Thu al-Qi'dah 1431, corresponding to 16 October 2010 
+
+ START TIME IS :14:19:05.642
+
+ END TIME IS :14:19:05.718
+start of sentence
+14:19:05.719
+end of sentence
+14:19:05.720
+Processed text is :  Saturday 8 Thu al-Qi ` dah 1431 , corresponding to 16 October 2010
+********* Finished sent # 33292 **************
+textid: 1492Input text is :  Jaljalat Salafi Network text id : 1492
+***********output************* Jaljalat Salafi Network 
+
+ START TIME IS :14:19:05.721
+
+ END TIME IS :14:19:05.728
+start of sentence
+14:19:05.728
+end of sentence
+14:19:05.729
+Processed text is :  Jaljalat Salafi Network
+********* Finished sent # 33293 **************
+textid: 1492Input text is :  Forum for the Sunni Salafist jihadist youth in Jerusalem  </p>text id : 1492
+***********output************* Forum for the Sunni Salafist jihadist youth in Jerusalem  </p>
+
+ START TIME IS :14:19:05.729
+
+ END TIME IS :14:19:05.772
+start of sentence
+14:19:05.772
+end of sentence
+14:19:05.773
+Processed text is :  Forum for the Sunni Salafist jihadist youth in Jerusalem </p>
+********* Finished sent # 33294 **************
+textid: 1494Input text is :  12. On 27 Ramadan 1431 [corresponding to 6 September 2010], an intelligence officer from the apostate Ministry of Interior was killed with a silencer weapon by the Assassination Detachments in the Al-Hurriyah neighborhood text id : 1494
+***********output************* 12. On 27 Ramadan 1431 [corresponding to 6 September 2010], an intelligence officer from the apostate Ministry of Interior was killed with a silencer weapon by the Assassination Detachments in the Al-Hurriyah neighborhood 
+
+ START TIME IS :14:19:05.773
+
+ END TIME IS :14:19:11.114
+start of sentence
+14:19:11.114
+end of sentence
+14:19:11.119
+END OF EXECUTION 
+Processed text is :  12 . On 27 Ramadan 1431 -LSB- corresponding to 6 September 2010 -RSB- , an intelligence officer from the apostate Ministry of Interior was killed with a silencer weapon by the Assassination Detachments in the Al-Hurriyah neighborhood
+********* Finished sent # 33295 **************
+textid: 1494Input text is :  15. On 28 Ramadan 1431 [corresponding to 7 September 2010], the apostate rejectionist and the media combatant in the vicious Al-Iraqiyah Channel, the so-called Riyad al-Saray, was targeted with a silencer weapon by the heroes of the Assassination Detachments in the fortified Al-Harithiyah area. text id : 1494
+***********output************* 15. On 28 Ramadan 1431 [corresponding to 7 September 2010], the apostate rejectionist and the media combatant in the vicious Al-Iraqiyah Channel, the so-called Riyad al-Saray, was targeted with a silencer weapon by the heroes of the Assassination Detachments in the fortified Al-Harithiyah area. 
+
+ START TIME IS :14:19:11.131
+
+ END TIME IS :14:19:21.918
+start of sentence
+14:19:21.918
+end of sentence
+14:19:21.934
+END OF EXECUTION 
+END OF EXECUTION 
+Processed text is :  15 . On 28 Ramadan 1431 -LSB- corresponding to 7 September 2010 -RSB- , the apostate rejectionist and the media combatant in the vicious Al-Iraqiyah Channel , the so-called Riyad al-Saray , was targeted with a silencer weapon by the heroes of the Assassination Detachments in the fortified Al-Harithiyah area .
+********* Finished sent # 33296 **************
+textid: 1424Input text is : text id : 1424
+***********output*************
+
+ START TIME IS :14:19:21.958
+
+ END TIME IS :14:19:21.958
+start of sentence
+14:19:21.959
+end of sentence
+14:19:21.960
+Processed text is : 
+********* Finished sent # 33297 **************
+textid: 1424Input text is : text id : 1424
+***********output*************
+
+ START TIME IS :14:19:21.960
+
+ END TIME IS :14:19:21.960
+start of sentence
+14:19:21.960
+end of sentence
+14:19:21.961
+Processed text is : 
+********* Finished sent # 33298 **************
+textid: 1494Input text is :  In the name of God, the Merciful, the Compassionate. text id : 1494
+***********output************* In the name of God, the Merciful, the Compassionate. 
+
+ START TIME IS :14:19:21.961
+
+ END TIME IS :14:19:22.008
+start of sentence
+14:19:22.008
+end of sentence
+14:19:22.012
+END OF EXECUTION 
+Processed text is :  In the name of God , the Merciful , the Compassionate .
+********* Finished sent # 33299 **************
+textid: 1217Input text is : text id : 1217
+***********output*************
+
+ START TIME IS :14:19:22.024
+
+ END TIME IS :14:19:22.024
+start of sentence
+14:19:22.024
+end of sentence
+14:19:22.025
+Processed text is : 
+********* Finished sent # 33300 **************
+textid: 1227Input text is : text id : 1227
+***********output*************
+
+ START TIME IS :14:19:22.026
+
+ END TIME IS :14:19:22.026
+start of sentence
+14:19:22.026
+end of sentence
+14:19:22.027
+Processed text is : 
+********* Finished sent # 33301 **************
+textid: 1495Input text is :  The news of building a mosque across from what is believed to be a church in Alexandria has spread among the people and through the media outlets. The details of the story are outlined below: text id : 1495
+***********output************* The news of building a mosque across from what is believed to be a church in Alexandria has spread among the people and through the media outlets. The details of the story are outlined below: 
+
+ START TIME IS :14:19:22.027
+
+ END TIME IS :14:19:22.299
+start of sentence
+14:19:22.299
+end of sentence
+14:19:22.311
+END OF EXECUTION 
+Processed text is :  The news of building a mosque across from what is believed to be a church in Alexandria has spread among the people and through the media outlets . The details of the story are outlined below :
+********* Finished sent # 33302 **************
+textid: 1227Input text is : text id : 1227
+***********output*************
+
+ START TIME IS :14:19:22.322
+
+ END TIME IS :14:19:22.323
+start of sentence
+14:19:22.323
+end of sentence
+14:19:22.324
+Processed text is : 
+********* Finished sent # 33303 **************
+textid: 1227Input text is : text id : 1227
+***********output*************
+
+ START TIME IS :14:19:22.324
+
+ END TIME IS :14:19:22.324
+start of sentence
+14:19:22.324
+end of sentence
+14:19:22.325
+Processed text is : 
+********* Finished sent # 33304 **************
+textid: 1330Input text is : text id : 1330
+***********output*************
+
+ START TIME IS :14:19:22.325
+
+ END TIME IS :14:19:22.326
+start of sentence
+14:19:22.326
+end of sentence
+14:19:22.326
+Processed text is : 
+********* Finished sent # 33305 **************
+textid: 1330Input text is : text id : 1330
+***********output*************
+
+ START TIME IS :14:19:22.326
+
+ END TIME IS :14:19:22.327
+start of sentence
+14:19:22.327
+end of sentence
+14:19:22.327
+Processed text is : 
+********* Finished sent # 33306 **************
+textid: 1495Input text is :  Moreover, even according to the standards of politics, the following points must be taken into consideration: text id : 1495
+***********output************* Moreover, even according to the standards of politics, the following points must be taken into consideration: 
+
+ START TIME IS :14:19:22.327
+
+ END TIME IS :14:19:22.424
+start of sentence
+14:19:22.424
+end of sentence
+14:19:22.426
+Processed text is :  Moreover , even according to the standards of politics , the following points must be taken into consideration :
+********* Finished sent # 33307 **************
+textid: 1495Input text is :  --The issue is not one of carrying out orders -- these are not God's decrees -- rather, it is now a matter of advantages and disadvantages and one of gains and losses. What benefit is  there if the mosque was to be torn down, other than igniting the matter on the popular front?  What gain will there be if the mosque is torn down if the result will be that the incitement will  increase rather than decrease? text id : 1495
+ --The issue is not one of carrying out orders -- these are not God's decrees -- rather, it is now a matter of advantages and disadvantages and one of gains and losses. What benefit is  there if the mosque was to be torn down, other than igniting the matter on the popular front?  What gain will there be if the mosque is torn down if the result will be that the incitement will  increase rather than decrease? 
+***********output************* ,The issue is not one of carrying out orders , these are not God's decrees , rather, it is now a matter of advantages and disadvantages and one of gains and losses. What benefit is  there if the mosque was to be torn down, other than igniting the matter on the popular front?  What gain will there be if the mosque is torn down if the result will be that the incitement will  increase rather than decrease? 
+
+ START TIME IS :14:19:22.426
+
+ END TIME IS :14:19:25.176
+start of sentence
+14:19:25.176
+end of sentence
+14:19:25.204
+subjectissue
+verbbe
+object#crd#
+3SUB:issue VERB:be OBJ:#crd# P OBJ:
+Record is inserted into DBUSER table!
+subjectdecree
+verbbe
+objectdecree
+14SUB:decree VERB:be OBJ:decree P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjectmosque
+verbbe
+objecttear
+7SUB:mosque VERB:be OBJ:tear P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjectresult
+verbbe
+objectincrease
+14SUB:result VERB:be OBJ:increase P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+Processed text is :  , The issue is not one of carrying out orders , God 's decrees , rather are not God 's decrees , rather , a matter of advantages and disadvantages is now a matter of advantages and disadvantages and one of gains and losses . What benefit is there if the mosque was to be torn down , other than igniting the matter on the popular front ? What gain will there be if the mosque is torn down if the result will be that the incitement will increase rather than decrease ?
+********* Finished sent # 33308 **************
+textid: 1496Input text is :  In the name of God, the Merciful, the Compassionate. text id : 1496
+***********output************* In the name of God, the Merciful, the Compassionate. 
+
+ START TIME IS :14:19:25.251
+
+ END TIME IS :14:19:25.292
+start of sentence
+14:19:25.292
+end of sentence
+14:19:25.296
+END OF EXECUTION 
+Processed text is :  In the name of God , the Merciful , the Compassionate .
+********* Finished sent # 33309 **************
+textid: 1496Input text is :  A Clarification Statement Issued by the Al-Murabitin Brigades in Palestine text id : 1496
+***********output************* A Clarification Statement Issued by the Al-Murabitin Brigades in Palestine 
+
+ START TIME IS :14:19:25.307
+
+ END TIME IS :14:19:25.345
+start of sentence
+14:19:25.346
+end of sentence
+14:19:25.347
+Processed text is :  A Clarification Statement Issued by the Al-Murabitin Brigades in Palestine
+********* Finished sent # 33310 **************
+textid: 1498Input text is :  3. Third Baghdad Sector text id : 1498
+***********output************* 3. Third Baghdad Sector 
+
+ START TIME IS :14:19:25.347
+
+ END TIME IS :14:19:25.364
+start of sentence
+14:19:25.364
+end of sentence
+14:19:25.368
+END OF EXECUTION 
+Processed text is :  3 . Third Baghdad Sector
+********* Finished sent # 33311 **************
+textid: 1330Input text is : text id : 1330
+***********output*************
+
+ START TIME IS :14:19:25.379
+
+ END TIME IS :14:19:25.379
+start of sentence
+14:19:25.379
+end of sentence
+14:19:25.380
+Processed text is : 
+********* Finished sent # 33312 **************
+textid: 1330Input text is : text id : 1330
+***********output*************
+
+ START TIME IS :14:19:25.381
+
+ END TIME IS :14:19:25.381
+start of sentence
+14:19:25.381
+end of sentence
+14:19:25.382
+Processed text is : 
+********* Finished sent # 33313 **************
+textid: 1227Input text is : text id : 1227
+***********output*************
+
+ START TIME IS :14:19:25.382
+
+ END TIME IS :14:19:25.382
+start of sentence
+14:19:25.382
+end of sentence
+14:19:25.383
+Processed text is : 
+********* Finished sent # 33314 **************
+textid: 1229Input text is : text id : 1229
+***********output*************
+
+ START TIME IS :14:19:25.383
+
+ END TIME IS :14:19:25.383
+start of sentence
+14:19:25.383
+end of sentence
+14:19:25.384
+Processed text is : 
+********* Finished sent # 33315 **************
+textid: 1957Input text is : Achieve good deeds, spread this information ...text id : 1957
+***********output*************Achieve good deeds, spread this information ...
+
+ START TIME IS :14:19:25.384
+
+ END TIME IS :14:19:25.408
+start of sentence
+14:19:25.408
+end of sentence
+14:19:25.412
+END OF EXECUTION 
+Processed text is :  Achieve good deeds , spread this information ...
+********* Finished sent # 33316 **************
+textid: 1957Input text is : ?</p>text id : 1957
+***********output*************?</p>
+
+ START TIME IS :14:19:25.424
+Jul 19, 2014 2:19:25 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: ? (U+FFFD, decimal: 65533)
+
+ END TIME IS :14:19:25.429
+start of sentence
+14:19:25.429
+end of sentence
+14:19:25.430
+Processed text is :  </p>
+********* Finished sent # 33317 **************
+textid: 1497Input text is :  In the name of God, the Merciful, the Compassionate text id : 1497
+***********output************* In the name of God, the Merciful, the Compassionate 
+
+ START TIME IS :14:19:25.430
+
+ END TIME IS :14:19:25.502
+start of sentence
+14:19:25.502
+end of sentence
+14:19:25.503
+Processed text is :  In the name of God , the Merciful , the Compassionate
+********* Finished sent # 33318 **************
+textid: 1497Input text is :  Dhabihallah (Mujahid)  21 October 2010 text id : 1497
+***********output************* Dhabihallah (Mujahid)  21 October 2010 
+
+ START TIME IS :14:19:25.504
+
+ END TIME IS :14:19:25.527
+start of sentence
+14:19:25.527
+end of sentence
+14:19:27.553
+Processed text is :  Dhabihallah -LRB- Mujahid -RRB- 21 October 2010
+********* Finished sent # 33319 **************
+textid: 1497Input text is :  Active links of the Islamic Emirate of Afghanistan: text id : 1497
+***********output************* Active links of the Islamic Emirate of Afghanistan: 
+
+ START TIME IS :14:19:27.553
+
+ END TIME IS :14:19:27.588
+start of sentence
+14:19:27.588
+end of sentence
+14:19:27.590
+Processed text is :  Active links of the Islamic Emirate of Afghanistan :
+********* Finished sent # 33320 **************
+textid: 1497Input text is :  Website of Sawt al-Jihad:  [Link is provided here.] text id : 1497
+***********output************* Website of Sawt al-Jihad:  [Link is provided here.] 
+
+ START TIME IS :14:19:27.590
+
+ END TIME IS :14:19:27.826
+start of sentence
+14:19:27.826
+end of sentence
+14:19:27.833
+END OF EXECUTION 
+Processed text is :  Website of Sawt al-Jihad : -LSB- Link is provided here . -RSB-
+********* Finished sent # 33321 **************
+textid: 1497Input text is :  Website of Al-Sumud Magazine:  [Link is provided here.] text id : 1497
+***********output************* Website of Al-Sumud Magazine:  [Link is provided here.] 
+
+ START TIME IS :14:19:27.844
+
+ END TIME IS :14:19:28.069
+start of sentence
+14:19:28.069
+end of sentence
+14:19:28.076
+END OF EXECUTION 
+Processed text is :  Website of Al-Sumud Magazine : -LSB- Link is provided here . -RSB-
+********* Finished sent # 33322 **************
+textid: 1497Input text is :  "When it is said to them: 'Make not mischief on the earth,' they say: 'Why, we only want to text id : 1497
+***********output************* "When it is said to them: 'Make not mischief on the earth,' they say: 'Why, we only want to 
+
+ START TIME IS :14:19:28.088
+
+ END TIME IS :14:19:28.233
+start of sentence
+14:19:28.233
+end of sentence
+14:19:28.235
+Processed text is :  `` When it is said to them : ` Make not mischief on the earth , ' them say : ` Why , we only want to
+********* Finished sent # 33323 **************
+textid: 1497Input text is : make peace,'" [Koranic verse, Al-Baqarah, 2:11]. text id : 1497
+***********output*************make peace,'" [Koranic verse, Al-Baqarah, 2:11]. 
+
+ START TIME IS :14:19:28.235
+
+ END TIME IS :14:19:28.574
+start of sentence
+14:19:28.574
+end of sentence
+14:19:28.582
+END OF EXECUTION 
+Processed text is :  make peace , ' '' -LSB- Koranic verse , Al-Baqarah , 2:11 -RSB- .
+********* Finished sent # 33324 **************
+textid: 1497Input text is : Information: The official spokesperson for the Islamic Emirate of Afghanistan-Taliban text id : 1497
+***********output*************Information: The official spokesperson for the Islamic Emirate of Afghanistan-Taliban 
+
+ START TIME IS :14:19:28.618
+
+ END TIME IS :14:19:28.665
+start of sentence
+14:19:28.665
+end of sentence
+14:19:28.667
+Processed text is :  Information : The official spokesperson for the Islamic Emirate of Afghanistan-Taliban
+********* Finished sent # 33325 **************
+textid: 1497Input text is :  Qari Muhammad Yusuf (Ahmadi), for the southwest and northwest areas in the country text id : 1497
+***********output************* Qari Muhammad Yusuf (Ahmadi), for the southwest and northwest areas in the country 
+
+ START TIME IS :14:19:28.667
+
+ END TIME IS :14:19:28.746
+start of sentence
+14:19:28.746
+end of sentence
+14:19:28.748
+Processed text is :  Qari Muhammad Yusuf -LRB- Ahmadi -RRB- , for the southwest and northwest areas in the country
+********* Finished sent # 33326 **************
+textid: 1497Input text is :  Dhabihallah (Mujahid), for the southeast and northeast areas in the country text id : 1497
+***********output************* Dhabihallah (Mujahid), for the southeast and northeast areas in the country 
+
+ START TIME IS :14:19:28.748
+
+ END TIME IS :14:19:28.804
+start of sentence
+14:19:28.804
+end of sentence
+14:19:28.805
+Processed text is :  Dhabihallah -LRB- Mujahid -RRB- , for the southeast and northeast areas in the country
+********* Finished sent # 33327 **************
+textid: 1497Input text is :  God is Great, "But honor belongs to Allah and His messenger, and to the believers," [partial text id : 1497
+***********output************* God is Great, "But honor belongs to Allah and His messenger, and to the believers," [partial 
+
+ START TIME IS :14:19:28.805
+
+ END TIME IS :14:19:31.855
+start of sentence
+14:19:31.855
+end of sentence
+14:19:31.857
+Processed text is :  God is Great , `` But honor belongs to Allah and Allah messenger , and to the believers , '' -LSB- partial
+********* Finished sent # 33328 **************
+textid: 1497Input text is : Koranic verse, Al-Munafiqun, 63:8]. text id : 1497
+***********output*************Koranic verse, Al-Munafiqun, 63:8]. 
+
+ START TIME IS :14:19:31.857
+
+ END TIME IS :14:19:31.941
+start of sentence
+14:19:31.942
+end of sentence
+14:19:31.948
+END OF EXECUTION 
+Processed text is :  Koranic verse , Al-Munafiqun , 63:8 -RSB- .
+********* Finished sent # 33329 **************
+textid: 1497Input text is :  The Media Commission of the Islamic Emirate of Afghanistan  Source: The Sawt al-Jihad page on 21 October 2010 text id : 1497
+***********output************* The Media Commission of the Islamic Emirate of Afghanistan  Source: The Sawt al-Jihad page on 21 October 2010 
+
+ START TIME IS :14:19:31.961
+
+ END TIME IS :14:19:32.121
+start of sentence
+14:19:32.121
+end of sentence
+14:19:32.123
+Processed text is :  The Media Commission of the Islamic Emirate of Afghanistan Source : The Sawt al-Jihad page on 21 October 2010
+********* Finished sent # 33330 **************
+textid: 1498Input text is :  In the name of God, the Merciful, the Compassionate. text id : 1498
+***********output************* In the name of God, the Merciful, the Compassionate. 
+
+ START TIME IS :14:19:32.123
+
+ END TIME IS :14:19:32.166
+start of sentence
+14:19:32.166
+end of sentence
+14:19:32.171
+END OF EXECUTION 
+Processed text is :  In the name of God , the Merciful , the Compassionate .
+********* Finished sent # 33331 **************
+textid: 1498Input text is :  Supreme Command for Jihad and Liberation text id : 1498
+***********output************* Supreme Command for Jihad and Liberation 
+
+ START TIME IS :14:19:32.181
+
+ END TIME IS :14:19:32.199
+start of sentence
+14:19:32.199
+end of sentence
+14:19:32.201
+Processed text is :  Supreme Command for Jihad and Liberation
+********* Finished sent # 33332 **************
+textid: 1498Input text is :  Army of Men of Naqshabandi Order text id : 1498
+***********output************* Army of Men of Naqshabandi Order 
+
+ START TIME IS :14:19:32.201
+
+ END TIME IS :14:19:32.219
+start of sentence
+14:19:32.219
+end of sentence
+14:19:32.220
+Processed text is :  Army of Men of Naqshabandi Order
+********* Finished sent # 33333 **************
+textid: 1498Input text is :  1. First Baghdad Sector text id : 1498
+***********output************* 1. First Baghdad Sector 
+
+ START TIME IS :14:19:32.220
+
+ END TIME IS :14:19:32.239
+start of sentence
+14:19:32.239
+end of sentence
+14:19:32.241
+END OF EXECUTION 
+Processed text is :  1 . First Baghdad Sector
+********* Finished sent # 33334 **************
+textid: 1498Input text is :  2. Second Baghdad Sector text id : 1498
+***********output************* 2. Second Baghdad Sector 
+
+ START TIME IS :14:19:32.252
+
+ END TIME IS :14:19:32.270
+start of sentence
+14:19:32.270
+end of sentence
+14:19:32.273
+END OF EXECUTION 
+Processed text is :  2 . Second Baghdad Sector
+********* Finished sent # 33335 **************
+textid: 1498Input text is :  6. First Diyala Sector text id : 1498
+***********output************* 6. First Diyala Sector 
+
+ START TIME IS :14:19:32.283
+
+ END TIME IS :14:19:32.298
+start of sentence
+14:19:32.298
+end of sentence
+14:19:32.301
+END OF EXECUTION 
+Processed text is :  6 . First Diyala Sector
+********* Finished sent # 33336 **************
+textid: 1498Input text is :  7. Second Diyala Sector text id : 1498
+***********output************* 7. Second Diyala Sector 
+
+ START TIME IS :14:19:32.311
+
+ END TIME IS :14:19:32.326
+start of sentence
+14:19:32.326
+end of sentence
+14:19:32.330
+END OF EXECUTION 
+Processed text is :  7 . Second Diyala Sector
+********* Finished sent # 33337 **************
+textid: 1498Input text is :  8. First Salah al-Din Sector text id : 1498
+***********output************* 8. First Salah al-Din Sector 
+
+ START TIME IS :14:19:32.340
+
+ END TIME IS :14:19:32.365
+start of sentence
+14:19:32.365
+end of sentence
+14:19:32.369
+END OF EXECUTION 
+Processed text is :  8 . First Salah al-Din Sector
+********* Finished sent # 33338 **************
+textid: 1498Input text is :  9. Second Salah al-Din Sector text id : 1498
+***********output************* 9. Second Salah al-Din Sector 
+
+ START TIME IS :14:19:32.379
+
+ END TIME IS :14:19:32.399
+start of sentence
+14:19:32.399
+end of sentence
+14:19:32.401
+END OF EXECUTION 
+Processed text is :  9 . Second Salah al-Din Sector
+********* Finished sent # 33339 **************
+textid: 1498Input text is :  10. First Al-Ta'mim [Kirkuk] Sector text id : 1498
+***********output************* 10. First Al-Ta'mim [Kirkuk] Sector 
+
+ START TIME IS :14:19:32.413
+
+ END TIME IS :14:19:32.507
+start of sentence
+14:19:32.507
+end of sentence
+14:19:32.510
+END OF EXECUTION 
+Processed text is :  10 . First Al-Ta ` mim -LSB- Kirkuk -RSB- Sector
+********* Finished sent # 33340 **************
+textid: 1787Input text is : More than 20 puppet soldiers killed in Somalia bomb blast mines along some of this month. text id : 1787
+***********output*************More than 20 puppet soldiers killed in Somalia bomb blast mines along some of this month. 
+
+ START TIME IS :14:19:32.524
+
+ END TIME IS :14:19:34.642
+start of sentence
+14:19:34.642
+end of sentence
+14:19:34.649
+END OF EXECUTION 
+Processed text is :  More than 20 puppet soldiers killed in Somalia bomb blast mines along some of this month .
+********* Finished sent # 33341 **************
+textid: 1498Input text is :  11. Second Al-Ta'mim [Kirkuk] Sector text id : 1498
+***********output************* 11. Second Al-Ta'mim [Kirkuk] Sector 
+
+ START TIME IS :14:19:34.662
+
+ END TIME IS :14:19:34.756
+start of sentence
+14:19:34.756
+end of sentence
+14:19:34.783
+END OF EXECUTION 
+Processed text is :  11 . Second Al-Ta ` mim -LSB- Kirkuk -RSB- Sector
+********* Finished sent # 33342 **************
+textid: 1331Input text is : text id : 1331
+***********output*************
+
+ START TIME IS :14:19:34.795
+
+ END TIME IS :14:19:34.795
+start of sentence
+14:19:34.795
+end of sentence
+14:19:34.796
+Processed text is : 
+********* Finished sent # 33343 **************
+textid: 1331Input text is : text id : 1331
+***********output*************
+
+ START TIME IS :14:19:34.796
+
+ END TIME IS :14:19:34.797
+start of sentence
+14:19:34.797
+end of sentence
+14:19:34.799
+Processed text is : 
+********* Finished sent # 33344 **************
+textid: 1498Input text is :  12. First Ninawa Sector text id : 1498
+***********output************* 12. First Ninawa Sector 
+
+ START TIME IS :14:19:34.799
+
+ END TIME IS :14:19:34.811
+start of sentence
+14:19:34.811
+end of sentence
+14:19:34.813
+END OF EXECUTION 
+Processed text is :  12 . First Ninawa Sector
+********* Finished sent # 33345 **************
+textid: 1499Input text is :  In the name of God, the Merciful, the Compassionate, text id : 1499
+***********output************* In the name of God, the Merciful, the Compassionate, 
+
+ START TIME IS :14:19:34.860
+
+ END TIME IS :14:19:34.952
+start of sentence
+14:19:34.952
+end of sentence
+14:19:34.953
+Processed text is :  In the name of God , the Merciful , the Compassionate ,
+********* Finished sent # 33346 **************
+textid: 1499Input text is :  Supreme Command for Jihad and Liberation text id : 1499
+***********output************* Supreme Command for Jihad and Liberation 
+
+ START TIME IS :14:19:34.953
+
+ END TIME IS :14:19:34.975
+start of sentence
+14:19:34.975
+end of sentence
+14:19:34.976
+Processed text is :  Supreme Command for Jihad and Liberation
+********* Finished sent # 33347 **************
+textid: 1499Input text is :  Army of the Men of the Naqshabandi Order text id : 1499
+***********output************* Army of the Men of the Naqshabandi Order 
+
+ START TIME IS :14:19:34.976
+
+ END TIME IS :14:19:35.009
+start of sentence
+14:19:35.010
+end of sentence
+14:19:35.011
+Processed text is :  Army of the Men of the Naqshabandi Order
+********* Finished sent # 33348 **************
+textid: 1499Input text is :  1. First Baghdad Sector text id : 1499
+***********output************* 1. First Baghdad Sector 
+
+ START TIME IS :14:19:35.011
+
+ END TIME IS :14:19:35.027
+start of sentence
+14:19:35.027
+end of sentence
+14:19:35.029
+END OF EXECUTION 
+Processed text is :  1 . First Baghdad Sector
+********* Finished sent # 33349 **************
+textid: 1499Input text is :  2. Second Baghdad Sector text id : 1499
+***********output************* 2. Second Baghdad Sector 
+
+ START TIME IS :14:19:35.039
+
+ END TIME IS :14:19:35.058
+start of sentence
+14:19:35.058
+end of sentence
+14:19:35.061
+END OF EXECUTION 
+Processed text is :  2 . Second Baghdad Sector
+********* Finished sent # 33350 **************
+textid: 1499Input text is :  3. Third Baghdad Sector text id : 1499
+***********output************* 3. Third Baghdad Sector 
+
+ START TIME IS :14:19:35.071
+
+ END TIME IS :14:19:35.087
+start of sentence
+14:19:35.087
+end of sentence
+14:19:35.090
+END OF EXECUTION 
+Processed text is :  3 . Third Baghdad Sector
+********* Finished sent # 33351 **************
+textid: 1229Input text is : text id : 1229
+***********output*************
+
+ START TIME IS :14:19:35.100
+
+ END TIME IS :14:19:35.101
+start of sentence
+14:19:35.101
+end of sentence
+14:19:35.102
+Processed text is : 
+********* Finished sent # 33352 **************
+textid: 1331Input text is : text id : 1331
+***********output*************
+
+ START TIME IS :14:19:35.102
+
+ END TIME IS :14:19:35.103
+start of sentence
+14:19:35.103
+end of sentence
+14:19:35.104
+Processed text is : 
+********* Finished sent # 33353 **************
+textid: 1331Input text is : text id : 1331
+***********output*************
+
+ START TIME IS :14:19:35.104
+
+ END TIME IS :14:19:35.104
+start of sentence
+14:19:35.104
+end of sentence
+14:19:35.105
+Processed text is : 
+********* Finished sent # 33354 **************
+textid: 1499Input text is :  4. First Al-Anbar Sector text id : 1499
+***********output************* 4. First Al-Anbar Sector 
+
+ START TIME IS :14:19:35.105
+
+ END TIME IS :14:19:35.120
+start of sentence
+14:19:35.120
+end of sentence
+14:19:35.123
+END OF EXECUTION 
+Processed text is :  4 . First Al-Anbar Sector
+********* Finished sent # 33355 **************
+textid: 1499Input text is :  5. Second Al-Anbar Sector text id : 1499
+***********output************* 5. Second Al-Anbar Sector 
+
+ START TIME IS :14:19:35.133
+
+ END TIME IS :14:19:35.149
+start of sentence
+14:19:35.149
+end of sentence
+14:19:35.151
+END OF EXECUTION 
+Processed text is :  5 . Second Al-Anbar Sector
+********* Finished sent # 33356 **************
+textid: 1499Input text is :  7. Second Diyala Sector text id : 1499
+***********output************* 7. Second Diyala Sector 
+
+ START TIME IS :14:19:35.162
+
+ END TIME IS :14:19:35.178
+start of sentence
+14:19:35.178
+end of sentence
+14:19:35.180
+END OF EXECUTION 
+Processed text is :  7 . Second Diyala Sector
+********* Finished sent # 33357 **************
+textid: 1499Input text is :  8. First Salah-al-Din Sector text id : 1499
+***********output************* 8. First Salah-al-Din Sector 
+
+ START TIME IS :14:19:35.190
+
+ END TIME IS :14:19:35.203
+start of sentence
+14:19:35.203
+end of sentence
+14:19:35.206
+END OF EXECUTION 
+Processed text is :  8 . First Salah-al-Din Sector
+********* Finished sent # 33358 **************
+textid: 1499Input text is :  10. First Al-Ta'mim [Kirkuk] Sector text id : 1499
+***********output************* 10. First Al-Ta'mim [Kirkuk] Sector 
+
+ START TIME IS :14:19:35.216
+
+ END TIME IS :14:19:35.315
+start of sentence
+14:19:35.315
+end of sentence
+14:19:35.318
+END OF EXECUTION 
+Processed text is :  10 . First Al-Ta ` mim -LSB- Kirkuk -RSB- Sector
+********* Finished sent # 33359 **************
+textid: 1499Input text is :  11. Second Al-Ta'mim [Kirkuk] Sector text id : 1499
+***********output************* 11. Second Al-Ta'mim [Kirkuk] Sector 
+
+ START TIME IS :14:19:35.328
+
+ END TIME IS :14:19:35.416
+start of sentence
+14:19:35.416
+end of sentence
+14:19:35.419
+END OF EXECUTION 
+Processed text is :  11 . Second Al-Ta ` mim -LSB- Kirkuk -RSB- Sector
+********* Finished sent # 33360 **************
+textid: 1425Input text is : text id : 1425
+***********output*************
+
+ START TIME IS :14:19:35.430
+
+ END TIME IS :14:19:35.430
+start of sentence
+14:19:35.430
+end of sentence
+14:19:35.431
+Processed text is : 
+********* Finished sent # 33361 **************
+textid: 1499Input text is :  12. First Ninawa Sector text id : 1499
+***********output************* 12. First Ninawa Sector 
+
+ START TIME IS :14:19:35.431
+
+ END TIME IS :14:19:35.443
+start of sentence
+14:19:35.443
+end of sentence
+14:19:35.445
+END OF EXECUTION 
+Processed text is :  12 . First Ninawa Sector
+********* Finished sent # 33362 **************
+textid: 1500Input text is :  In the name of God the Strong, the Powerful, the Avenger, and the Giver of Dishonor to the    non-believers  text id : 1500
+***********output************* In the name of God the Strong, the Powerful, the Avenger, and the Giver of Dishonor to the    non-believers  
+
+ START TIME IS :14:19:35.455
+
+ END TIME IS :14:19:37.455
+start of sentence
+14:19:37.455
+end of sentence
+14:19:37.457
+Processed text is :  In the name of God the Strong , the Powerful , the Avenger , and the Giver of Dishonor to the non-believers
+********* Finished sent # 33363 **************
+textid: 1331Input text is : text id : 1331
+***********output*************
+
+ START TIME IS :14:19:37.457
+
+ END TIME IS :14:19:37.457
+start of sentence
+14:19:37.457
+end of sentence
+14:19:37.459
+Processed text is : 
+********* Finished sent # 33364 **************
+textid: 1500Input text is :  Thus was the case with the two blessed attacks, the criminal oppressor America was hit in her homeland by a few people -- the 19 -- with insubstantial preparation and equipment. However, they held in their hearts a strong belief in God and Judgment Day. America was hit with a blessed strike from which it is still reeling and will not recover, until God wills it. These two blessed attacks will become an actual and clear example of the victory of [those with] strong faith even if they had little preparation and equipment over the  forces of oppression and tyranny even if they had the nuclear bomb and the strongest weapons. text id : 1500
+ Thus was the case with the two blessed attacks, the criminal oppressor America was hit in her homeland by a few people -- the 19 -- with insubstantial preparation and equipment. However, they held in their hearts a strong belief in God and Judgment Day. America was hit with a blessed strike from which it is still reeling and will not recover, until God wills it. These two blessed attacks will become an actual and clear example of the victory of [those with] strong faith even if they had little preparation and equipment over the  forces of oppression and tyranny even if they had the nuclear bomb and the strongest weapons. 
+***********output************* Thus was the case with the two blessed attacks, the criminal oppressor America was hit in her homeland by a few people , the 19 , with insubstantial preparation and equipment. However, they held in their hearts a strong belief in God and Judgment Day. America was hit with a blessed strike from which it is still reeling and will not recover, until God wills it. These two blessed attacks will become an actual and clear example of the victory of [those with] strong faith even if they had little preparation and equipment over the  forces of oppression and tyranny even if they had the nuclear bomb and the strongest weapons. 
+
+ START TIME IS :14:19:37.459
+
+ END TIME IS :14:19:48.435
+start of sentence
+14:19:48.435
+end of sentence
+14:19:48.475
+subjectoppressor
+verbhit
+objectby
+13SUB:oppressor VERB:hit OBJ:by P OBJ:few people AM-LOC:in homeland
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+END OF EXECUTION 
+subjectamerica
+verbhit
+objectwith
+1SUB:america VERB:hit OBJ:with P OBJ:blessed strike AM-TMP:still
+Record is inserted into DBUSER table!
+subjectgod
+verbwill
+objectamerica
+20SUB:god VERB:will OBJ:america P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjectattack
+verbbecome
+objectexample
+4SUB:attack VERB:become OBJ:example P OBJ:
+Record is inserted into DBUSER table!
+subjectthose
+verbhave
+objectbomb
+43SUB:those VERB:have OBJ:bomb P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+Processed text is :  Thus was the case with the two blessed attacks , the criminal oppressor America was hit in her homeland by a few people , the 19 , with insubstantial preparation and equipment . However , a few people held in a few people hearts a strong belief in God and Judgment Day . America was hit with a blessed strike from which America is still reeling and will not recover , until God wills America . These two blessed attacks will become an actual and clear example of the victory of -LSB- those with -RSB- strong faith even if those had little preparation and equipment over the forces of oppression and tyranny even if those had the nuclear bomb and the strongest weapons .
+********* Finished sent # 33365 **************
+textid: 1501Input text is :  In the name of God, the Merciful, the Compassionate, text id : 1501
+***********output************* In the name of God, the Merciful, the Compassionate, 
+
+ START TIME IS :14:19:48.525
+
+ END TIME IS :14:19:48.613
+start of sentence
+14:19:48.613
+end of sentence
+14:19:48.615
+Processed text is :  In the name of God , the Merciful , the Compassionate ,
+********* Finished sent # 33366 **************
+textid: 1501Input text is :  Statement (203/8) text id : 1501
+***********output************* Statement (203/8) 
+
+ START TIME IS :14:19:48.615
+
+ END TIME IS :14:19:48.626
+start of sentence
+14:19:48.626
+end of sentence
+14:19:48.627
+Processed text is :  Statement -LRB- 203/8 -RRB-
+********* Finished sent # 33367 **************
+textid: 1501Input text is :  Statement (204/8) text id : 1501
+***********output************* Statement (204/8) 
+
+ START TIME IS :14:19:48.627
+
+ END TIME IS :14:19:48.638
+start of sentence
+14:19:48.638
+end of sentence
+14:19:48.639
+Processed text is :  Statement -LRB- 204/8 -RRB-
+********* Finished sent # 33368 **************
+textid: 1501Input text is :  Statement (205/8) text id : 1501
+***********output************* Statement (205/8) 
+
+ START TIME IS :14:19:48.639
+
+ END TIME IS :14:19:48.651
+start of sentence
+14:19:48.651
+end of sentence
+14:19:48.652
+Processed text is :  Statement -LRB- 205/8 -RRB-
+********* Finished sent # 33369 **************
+textid: 1501Input text is :  Statement (206/8) text id : 1501
+***********output************* Statement (206/8) 
+
+ START TIME IS :14:19:48.653
+
+ END TIME IS :14:19:48.663
+start of sentence
+14:19:48.663
+end of sentence
+14:19:48.665
+Processed text is :  Statement -LRB- 206/8 -RRB-
+********* Finished sent # 33370 **************
+textid: 1501Input text is :  Statement (207/8) text id : 1501
+***********output************* Statement (207/8) 
+
+ START TIME IS :14:19:48.665
+
+ END TIME IS :14:19:48.676
+start of sentence
+14:19:48.676
+end of sentence
+14:19:48.677
+Processed text is :  Statement -LRB- 207/8 -RRB-
+********* Finished sent # 33371 **************
+textid: 1501Input text is :  Statement (208/8) text id : 1501
+***********output************* Statement (208/8) 
+
+ START TIME IS :14:19:48.678
+
+ END TIME IS :14:19:48.688
+start of sentence
+14:19:48.688
+end of sentence
+14:19:48.690
+Processed text is :  Statement -LRB- 208/8 -RRB-
+********* Finished sent # 33372 **************
+textid: 1501Input text is :  Statement (209/8) text id : 1501
+***********output************* Statement (209/8) 
+
+ START TIME IS :14:19:48.690
+
+ END TIME IS :14:19:48.701
+start of sentence
+14:19:48.701
+end of sentence
+14:19:48.702
+Processed text is :  Statement -LRB- 209/8 -RRB-
+********* Finished sent # 33373 **************
+textid: 1501Input text is :  Statement (210/8) text id : 1501
+***********output************* Statement (210/8) 
+
+ START TIME IS :14:19:48.702
+
+ END TIME IS :14:19:48.712
+start of sentence
+14:19:48.712
+end of sentence
+14:19:48.714
+Processed text is :  Statement -LRB- 210/8 -RRB-
+********* Finished sent # 33374 **************
+textid: 1501Input text is :  Statement (211/8) text id : 1501
+***********output************* Statement (211/8) 
+
+ START TIME IS :14:19:48.714
+
+ END TIME IS :14:19:48.725
+start of sentence
+14:19:48.725
+end of sentence
+14:19:48.726
+Processed text is :  Statement -LRB- 211/8 -RRB-
+********* Finished sent # 33375 **************
+textid: 1501Input text is :  Statement (212/8) text id : 1501
+***********output************* Statement (212/8) 
+
+ START TIME IS :14:19:48.727
+
+ END TIME IS :14:19:48.736
+start of sentence
+14:19:48.736
+end of sentence
+14:19:48.738
+Processed text is :  Statement -LRB- 212/8 -RRB-
+********* Finished sent # 33376 **************
+textid: 1425Input text is : text id : 1425
+***********output*************
+
+ START TIME IS :14:19:48.738
+
+ END TIME IS :14:19:48.738
+start of sentence
+14:19:48.738
+end of sentence
+14:19:48.739
+Processed text is : 
+********* Finished sent # 33377 **************
+textid: 1501Input text is :  Statement (214/8) text id : 1501
+***********output************* Statement (214/8) 
+
+ START TIME IS :14:19:48.739
+
+ END TIME IS :14:19:48.749
+start of sentence
+14:19:48.749
+end of sentence
+14:19:48.750
+Processed text is :  Statement -LRB- 214/8 -RRB-
+********* Finished sent # 33378 **************
+textid: 1501Input text is :  Statement (215/8) text id : 1501
+***********output************* Statement (215/8) 
+
+ START TIME IS :14:19:48.751
+
+ END TIME IS :14:19:50.703
+start of sentence
+14:19:50.703
+end of sentence
+14:19:50.704
+Processed text is :  Statement -LRB- 215/8 -RRB-
+********* Finished sent # 33379 **************
+textid: 1501Input text is :  Statement (216/8) text id : 1501
+***********output************* Statement (216/8) 
+
+ START TIME IS :14:19:50.704
+
+ END TIME IS :14:19:50.714
+start of sentence
+14:19:50.714
+end of sentence
+14:19:50.716
+Processed text is :  Statement -LRB- 216/8 -RRB-
+********* Finished sent # 33380 **************
+textid: 1501Input text is :  Statement (217/8) text id : 1501
+***********output************* Statement (217/8) 
+
+ START TIME IS :14:19:50.716
+
+ END TIME IS :14:19:50.726
+start of sentence
+14:19:50.727
+end of sentence
+14:19:50.728
+Processed text is :  Statement -LRB- 217/8 -RRB-
+********* Finished sent # 33381 **************
+textid: 1501Input text is :  Statement (218/8) text id : 1501
+***********output************* Statement (218/8) 
+
+ START TIME IS :14:19:50.728
+
+ END TIME IS :14:19:50.739
+start of sentence
+14:19:50.739
+end of sentence
+14:19:50.740
+Processed text is :  Statement -LRB- 218/8 -RRB-
+********* Finished sent # 33382 **************
+textid: 1501Input text is :  Statement (219/8) text id : 1501
+***********output************* Statement (219/8) 
+
+ START TIME IS :14:19:50.740
+
+ END TIME IS :14:19:50.750
+start of sentence
+14:19:50.750
+end of sentence
+14:19:50.752
+Processed text is :  Statement -LRB- 219/8 -RRB-
+********* Finished sent # 33383 **************
+textid: 1501Input text is :  Statement (220/8) text id : 1501
+***********output************* Statement (220/8) 
+
+ START TIME IS :14:19:50.752
+
+ END TIME IS :14:19:50.762
+start of sentence
+14:19:50.762
+end of sentence
+14:19:50.764
+Processed text is :  Statement -LRB- 220/8 -RRB-
+********* Finished sent # 33384 **************
+textid: 1501Input text is :  Statement (221/8) text id : 1501
+***********output************* Statement (221/8) 
+
+ START TIME IS :14:19:50.764
+
+ END TIME IS :14:19:50.774
+start of sentence
+14:19:50.775
+end of sentence
+14:19:50.776
+Processed text is :  Statement -LRB- 221/8 -RRB-
+********* Finished sent # 33385 **************
+textid: 1501Input text is :  O God, we ask You to grant us martyrdom in Your cause after a long jihad to crush the text id : 1501
+***********output************* O God, we ask You to grant us martyrdom in Your cause after a long jihad to crush the 
+
+ START TIME IS :14:19:50.776
+
+ END TIME IS :14:19:50.887
+start of sentence
+14:19:50.887
+end of sentence
+14:19:50.889
+Processed text is :  O God , we ask You to grant we martyrdom in Your cause after a long jihad to crush the
+********* Finished sent # 33386 **************
+textid: 1501Input text is : enemy. text id : 1501
+***********output*************enemy. 
+
+ START TIME IS :14:19:50.889
+
+ END TIME IS :14:19:50.895
+start of sentence
+14:19:50.895
+end of sentence
+14:19:50.899
+END OF EXECUTION 
+Processed text is :  enemy .
+********* Finished sent # 33387 **************
+textid: 1229Input text is : text id : 1229
+***********output*************
+
+ START TIME IS :14:19:50.936
+
+ END TIME IS :14:19:50.937
+start of sentence
+14:19:50.937
+end of sentence
+14:19:50.938
+Processed text is : 
+********* Finished sent # 33388 **************
+textid: 1428Input text is : text id : 1428
+***********output*************
+
+ START TIME IS :14:19:50.938
+
+ END TIME IS :14:19:50.938
+start of sentence
+14:19:50.938
+end of sentence
+14:19:50.939
+Processed text is : 
+********* Finished sent # 33389 **************
+textid: 1433Input text is : text id : 1433
+***********output*************
+
+ START TIME IS :14:19:50.939
+
+ END TIME IS :14:19:50.939
+start of sentence
+14:19:50.940
+end of sentence
+14:19:50.940
+Processed text is : 
+********* Finished sent # 33390 **************
+textid: 1229Input text is : text id : 1229
+***********output*************
+
+ START TIME IS :14:19:50.940
+
+ END TIME IS :14:19:50.941
+start of sentence
+14:19:50.941
+end of sentence
+14:19:50.941
+Processed text is : 
+********* Finished sent # 33391 **************
+textid: 1434Input text is : text id : 1434
+***********output*************
+
+ START TIME IS :14:19:50.941
+
+ END TIME IS :14:19:50.942
+start of sentence
+14:19:50.942
+end of sentence
+14:19:50.942
+Processed text is : 
+********* Finished sent # 33392 **************
+textid: 1435Input text is : text id : 1435
+***********output*************
+
+ START TIME IS :14:19:50.942
+
+ END TIME IS :14:19:50.943
+start of sentence
+14:19:50.943
+end of sentence
+14:19:50.943
+Processed text is : 
+********* Finished sent # 33393 **************
+textid: 1505Input text is :   Nine years ago, the brutal Americans launched their assault against Afghanistan, violating all humanitarian and ethical standards. This brutal assault was carried out in the name of the Crusader war that was ordered by the disgraceful former US President George W. Bush. At that time, it did not occur to anyone that the Afghans, who were exhausted by long and consecutive wars, could face the arrogant US forces, which were well prepared and equipped with the most advanced weapons. Thus, after six months of occupation, Donald Rumsfeld, the former US secretary of defense who was blinded by arrogance, declared the suspension of combat operations in Afghanistan. He justified suspension with the fact that the Afghans had lost the ability to resist. text id : 1505
+***********output*************  Nine years ago, the brutal Americans launched their assault against Afghanistan, violating all humanitarian and ethical standards. This brutal assault was carried out in the name of the Crusader war that was ordered by the disgraceful former US President George W. Bush. At that time, it did not occur to anyone that the Afghans, who were exhausted by long and consecutive wars, could face the arrogant US forces, which were well prepared and equipped with the most advanced weapons. Thus, after six months of occupation, Donald Rumsfeld, the former US secretary of defense who was blinded by arrogance, declared the suspension of combat operations in Afghanistan. He justified suspension with the fact that the Afghans had lost the ability to resist. 
+
+ START TIME IS :14:19:50.943
+
+ END TIME IS :14:19:54.458
+start of sentence
+14:19:54.458
+end of sentence
+14:19:54.516
+subjectamerican
+verblaunch
+objectassault
+7SUB:american VERB:launch OBJ:assault P OBJ: AM-TMP:ago year
+Record is inserted into DBUSER table!
+subjectamerican
+verbviolate
+objectstandard
+7SUB:american VERB:violate OBJ:standard P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjectby
+verborder
+objectwar
+17SUB:by SUB POBJ:bush VERB:order OBJ:war P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjectafghan
+verbface
+objectforce
+14SUB:afghan VERB:face OBJ:force P OBJ:
+Record is inserted into DBUSER table!
+subjectface
+verboccur
+objectto
+26SUB:face SUB POBJ:arrogant VERB:occur OBJ:to P OBJ:anyone AM-TMP:at time
+Record is inserted into DBUSER table!
+subjectforce
+verbbe
+objectprepared
+30SUB:force VERB:be OBJ:prepared P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjectrumsfeld
+verbdeclare
+objectsuspension
+10SUB:rumsfeld VERB:declare OBJ:suspension P OBJ: AM-TMP:after month
+Record is inserted into DBUSER table!
+subjectby
+verbblind
+objectsecretary
+21SUB:by SUB POBJ:arrogance VERB:blind OBJ:secretary P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjectrumsfeld
+verbjustify
+objectsuspension
+2SUB:rumsfeld VERB:justify OBJ:suspension P OBJ:
+Record is inserted into DBUSER table!
+subjectafghan
+verblose
+objectability
+10SUB:afghan VERB:lose OBJ:ability P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+Processed text is :  Nine years ago , the brutal Americans launched their assault against Afghanistan , violating all humanitarian and ethical standards . This brutal assault was carried out in the name of the Crusader war that was ordered by the disgraceful former US President George W. Bush . At that time , that time did not occur to anyone that the Afghans , who were exhausted by long and consecutive wars , could face the arrogant US forces , which were well prepared and equipped with the most advanced weapons . Thus , after six months of occupation , Donald Rumsfeld , the former US secretary of defense who was blinded by arrogance , declared the suspension of combat operations in Afghanistan . Donald Rumsfeld justified suspension with the fact that the Afghans had lost the ability to resist .
+********* Finished sent # 33394 **************
+textid: 1505Input text is :  Today, after nine years, the Afghan fronts for jihad and resistance against the Americans and their allies in Afghanistan are still at the highest and most ruthless level. The mujahidin kill dozens of the occupying Crusader soldiers daily. During these nine years, the Americans could not achieve their meaningless and hollow slogans. They could not stop the Afghan jihadist activities either. text id : 1505
+***********output************* Today, after nine years, the Afghan fronts for jihad and resistance against the Americans and their allies in Afghanistan are still at the highest and most ruthless level. The mujahidin kill dozens of the occupying Crusader soldiers daily. During these nine years, the Americans could not achieve their meaningless and hollow slogans. They could not stop the Afghan jihadist activities either. 
+
+ START TIME IS :14:19:54.591
+
+ END TIME IS :14:19:57.045
+start of sentence
+14:19:57.045
+end of sentence
+14:19:57.068
+subjectfront
+verbbe
+objectat
+9SUB:front SUB POBJ:for jihad VERB:be OBJ:at P OBJ:high level AM-TMP:today
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjectmujahidin
+verbkill
+objectdozen
+2SUB:mujahidin VERB:kill OBJ:dozen P OBJ: AM-TMP:daily
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjectamerican
+verbachieve
+objectmujahidin
+7SUB:american VERB:achieve OBJ:mujahidin P OBJ: AM-TMP:during year
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+END OF EXECUTION 
+subjectmujahidin
+verbkill
+objectdozen
+2SUB:mujahidin VERB:kill OBJ:dozen P OBJ: AM-TMP:daily
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+END OF EXECUTION 
+Processed text is :  Today , after nine years , the Afghan fronts for jihad and resistance against the Americans and their allies in Afghanistan are still at the highest and most ruthless level . The mujahidin kill dozens of the occupying Crusader soldiers daily . During these nine years , the Americans could not achieve The mujahidin kill dozens of the occupying Crusader soldiers daily . meaningless and hollow slogans . The mujahidin kill dozens of the occupying Crusader soldiers daily . could not stop the Afghan jihadist activities either .
+********* Finished sent # 33395 **************
+textid: 1505Input text is :  After the [Americans] spent hundreds of billions of dollars, thousands of their occupying soldiers were killed, tens of thousands of other soldiers were wounded, and a huge quantity of military equipment and facilities were destroyed in this aggressive and hopeless war, the conclusion that the Americans came up with was to declare to their people that 2010 is a bloody and destructive year in Afghanistan for the US forces and their allies in comparison to the previous years. text id : 1505
+***********output************* After the [Americans] spent hundreds of billions of dollars, thousands of their occupying soldiers were killed, tens of thousands of other soldiers were wounded, and a huge quantity of military equipment and facilities were destroyed in this aggressive and hopeless war, the conclusion that the Americans came up with was to declare to their people that 2010 is a bloody and destructive year in Afghanistan for the US forces and their allies in comparison to the previous years. 
+
+ START TIME IS :14:19:57.150
+
+ END TIME IS :14:20:46.321
+start of sentence
+14:20:46.321
+end of sentence
+14:20:46.352
+subjectrsb
+verbspend
+objecthundred
+8SUB:rsb VERB:spend OBJ:hundred P OBJ:
+Record is inserted into DBUSER table!
+subjectthousand
+verbbe
+objectdeclare
+17SUB:thousand SUB POBJ:of occupy soldier VERB:be OBJ:declare P OBJ:
+Record is inserted into DBUSER table!
+subjectquantity
+verbdestroy
+objectin
+37SUB:quantity SUB POBJ:of military equipment VERB:destroy OBJ:in P OBJ:aggressive war
+Record is inserted into DBUSER table!
+subjectconclusion
+verbbe
+objectdeclare
+53SUB:conclusion VERB:be OBJ:declare P OBJ:
+Record is inserted into DBUSER table!
+subject0
+verbbe
+objectyear
+71SUB:0 VERB:be OBJ:year P OBJ:
+Record is inserted into DBUSER table!
+subjectbe
+verbdeclare
+objectto
+72SUB:be SUB POBJ:bloody VERB:declare OBJ:to P OBJ:thousand
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+Processed text is :  After the -LSB- Americans -RSB- spent hundreds of billions of dollars , thousands of their occupying soldiers were killed , tens of thousands of other soldiers were wounded , and a huge quantity of military equipment and facilities were destroyed in this aggressive and hopeless war , the conclusion that the Americans came up with was to declare to thousands of their occupying soldiers people that 2010 is a bloody and destructive year in Afghanistan for the US forces and thousands of their occupying soldiers people allies in comparison to the previous years .
+********* Finished sent # 33396 **************
+textid: 1505Input text is :  The US occupying forces and their allies have made use of all their military and economic capabilities. They have adopted various strategies for nine full years in order to make their rule prevail and succeed. They also assigned the task of putting down public resistance to the experienced prominent generals and carried out several devilish projects and plots by the hands of their agents. However, after all these attempts, we can summarize the gains of both sides, the Americans and the mujahidin, in the following points: text id : 1505
+***********output************* The US occupying forces and their allies have made use of all their military and economic capabilities. They have adopted various strategies for nine full years in order to make their rule prevail and succeed. They also assigned the task of putting down public resistance to the experienced prominent generals and carried out several devilish projects and plots by the hands of their agents. However, after all these attempts, we can summarize the gains of both sides, the Americans and the mujahidin, in the following points: 
+
+ START TIME IS :14:20:46.370
+
+ END TIME IS :14:20:47.086
+start of sentence
+14:20:47.086
+end of sentence
+14:20:47.111
+subjectus
+verboccupy
+objectforce
+2SUB:us VERB:occupy OBJ:force P OBJ:
+Record is inserted into DBUSER table!
+subjectus
+verbuse
+objectof
+2SUB:us VERB:use OBJ:of P OBJ:capability
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjectally
+verbadopt
+objectstrategy
+2SUB:ally VERB:adopt OBJ:strategy P OBJ: AM-TMP:for year
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjectally
+verbassign
+objecttask
+2SUB:ally VERB:assign OBJ:task P OBJ:
+Record is inserted into DBUSER table!
+subjectally
+verbcarry
+objectproject
+2SUB:ally VERB:carry OBJ:project P OBJ:
+Record is inserted into DBUSER table!
+subjectresistance
+verbput
+objectto
+11SUB:resistance VERB:put OBJ:to P OBJ:experienced general
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+Processed text is :  The US occupying forces and their allies have made use of all their allies military and economic capabilities . their allies have adopted various strategies for nine full years in order to make their allies rule prevail and succeed . their allies also assigned the task of putting down public resistance to the experienced prominent generals and carried out several devilish projects and plots by the hands of their allies agents . However , after all these attempts , we can summarize the gains of both sides , the Americans and the mujahidin , in the following points :
+********* Finished sent # 33397 **************
+textid: 1505Input text is :  First: The Gains of the Americans: text id : 1505
+***********output************* First: The Gains of the Americans: 
+
+ START TIME IS :14:20:47.153
+
+ END TIME IS :14:20:47.178
+start of sentence
+14:20:47.178
+end of sentence
+14:20:47.179
+Processed text is :  First : The Gains of the Americans :
+********* Finished sent # 33398 **************
+textid: 1505Input text is :  1. US officials, including Obama, are desperate over the consequences of the war in Afghanistan. text id : 1505
+***********output************* 1. US officials, including Obama, are desperate over the consequences of the war in Afghanistan. 
+
+ START TIME IS :14:20:47.179
+
+ END TIME IS :14:20:49.304
+start of sentence
+14:20:49.304
+end of sentence
+14:20:49.326
+END OF EXECUTION 
+subjectofficial
+verbbe
+objectdesperate
+2SUB:official VERB:be OBJ:desperate P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+Processed text is :  1 . US officials , including Obama , are desperate over the consequences of the war in Afghanistan .
+********* Finished sent # 33399 **************
+textid: 1505Input text is :  2. A dispute among White House officials arose at the public level due to the failure and unacceptable consequences of the Afghan war. text id : 1505
+***********output************* 2. A dispute among White House officials arose at the public level due to the failure and unacceptable consequences of the Afghan war. 
+
+ START TIME IS :14:20:49.398
+
+ END TIME IS :14:20:49.572
+start of sentence
+14:20:49.572
+end of sentence
+14:20:49.581
+END OF EXECUTION 
+END OF EXECUTION 
+Processed text is :  2 . A dispute among White House officials arose at the public level due to the failure and unacceptable consequences of the Afghan war .
+********* Finished sent # 33400 **************
+textid: 1505Input text is :  3. Some members of NATO led by the United States withdrew from the military mission in Afghanistan due to an atmosphere of distrust among those countries, as the war has been prolonged for nine years and came to failure. text id : 1505
+***********output************* 3. Some members of NATO led by the United States withdrew from the military mission in Afghanistan due to an atmosphere of distrust among those countries, as the war has been prolonged for nine years and came to failure. 
+
+ START TIME IS :14:20:49.602
+
+ END TIME IS :14:20:50.183
+start of sentence
+14:20:50.183
+end of sentence
+14:20:50.197
+END OF EXECUTION 
+subjectmember
+verbwithdraw
+objectfrom
+2SUB:member SUB POBJ:of nato VERB:withdraw OBJ:from P OBJ:military mission
+Record is inserted into DBUSER table!
+subjectby
+verblead
+objectmember
+6SUB:by SUB POBJ:state VERB:lead OBJ:member P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+Processed text is :  3 . Some members of NATO led by the United States withdrew from the military mission in Afghanistan due to an atmosphere of distrust among those countries , as the war has been prolonged for nine years and came to failure .
+********* Finished sent # 33401 **************
+textid: 1505Input text is : At last, the sophisticated forces of the United States and NATO failed to counter the resistance of the Afghan mujahidin, who do not possess the same advanced weapons, in addition to the fact that the US was humiliated on an international level and that its economy retreated into recession. text id : 1505
+***********output*************At last, the sophisticated forces of the United States and NATO failed to counter the resistance of the Afghan mujahidin, who do not possess the same advanced weapons, in addition to the fact that the US was humiliated on an international level and that its economy retreated into recession. 
+
+ START TIME IS :14:20:50.226
+
+ END TIME IS :14:20:53.392
+start of sentence
+14:20:53.392
+end of sentence
+14:20:53.411
+subjectforce
+verbcounter
+objectresistance
+6SUB:force SUB POBJ:of state VERB:counter OBJ:resistance P OBJ:
+Record is inserted into DBUSER table!
+subjectforce
+verbpossess
+objectweapon
+6SUB:force SUB POBJ:of state VERB:possess OBJ:weapon P OBJ:
+Record is inserted into DBUSER table!
+subjectforce
+verbfail
+objectcounter
+6SUB:force SUB POBJ:of state VERB:fail OBJ:counter P OBJ: AM-TMP:at last
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+Processed text is :  At last , the sophisticated forces of the United States and NATO failed to counter the resistance of the Afghan mujahidin , who do not possess the same advanced weapons , in addition to the fact that the US was humiliated on an international level and that the US economy retreated into recession .
+********* Finished sent # 33402 **************
+textid: 1505Input text is :  Second: The Gains of the Mujahidin: text id : 1505
+***********output************* Second: The Gains of the Mujahidin: 
+
+ START TIME IS :14:20:53.427
+
+ END TIME IS :14:20:53.453
+start of sentence
+14:20:53.453
+end of sentence
+14:20:53.454
+Processed text is :  Second : The Gains of the Mujahidin :
+********* Finished sent # 33403 **************
+textid: 1505Input text is :  1. The mujahidin rule 75 percent of the Afghan territory. This was acknowledged by the Americans themselves. text id : 1505
+***********output************* 1. The mujahidin rule 75 percent of the Afghan territory. This was acknowledged by the Americans themselves. 
+
+ START TIME IS :14:20:53.454
+
+ END TIME IS :14:20:53.521
+start of sentence
+14:20:53.521
+end of sentence
+14:20:53.528
+END OF EXECUTION 
+END OF EXECUTION 
+subjectby
+verbacknowledge
+objectthis
+4SUB:by SUB POBJ:american VERB:acknowledge OBJ:this P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+Processed text is :  1 . The mujahidin rule 75 percent of the Afghan territory . This was acknowledged by the Americans This .
+********* Finished sent # 33404 **************
+textid: 1505Input text is :  2. Targeting of all US fortified military bases by mujahidin military attacks, starting from the gates of the presidential palace, Bagram Air Base, Kandahar Airport, Jalalabad, and other fortified and carefully guarded military locations. text id : 1505
+***********output************* 2. Targeting of all US fortified military bases by mujahidin military attacks, starting from the gates of the presidential palace, Bagram Air Base, Kandahar Airport, Jalalabad, and other fortified and carefully guarded military locations. 
+
+ START TIME IS :14:20:53.563
+
+ END TIME IS :14:20:56.082
+start of sentence
+14:20:56.082
+end of sentence
+14:20:56.096
+END OF EXECUTION 
+END OF EXECUTION 
+Processed text is :  2 . Targeting of all US fortified military bases by mujahidin military attacks , starting from the gates of the presidential palace , Bagram Air Base , Kandahar Airport , Jalalabad , and other fortified and carefully guarded military locations .
+********* Finished sent # 33405 **************
+textid: 1505Input text is :  3. The increasing support of the peoples around the world for the Islamic resistance in Afghanistan against the occupation, and the support of the Afghan people in particular. text id : 1505
+***********output************* 3. The increasing support of the peoples around the world for the Islamic resistance in Afghanistan against the occupation, and the support of the Afghan people in particular. 
+
+ START TIME IS :14:20:56.115
+
+ END TIME IS :14:20:56.473
+start of sentence
+14:20:56.473
+end of sentence
+14:20:56.485
+END OF EXECUTION 
+END OF EXECUTION 
+Processed text is :  3 . The increasing support of the peoples around the world for the Islamic resistance in Afghanistan against the occupation , and the support of the Afghan people in particular .
+********* Finished sent # 33406 **************
+textid: 1505Input text is :  4. The mujahidin have controlled the main communication roads in Afghanistan. text id : 1505
+***********output************* 4. The mujahidin have controlled the main communication roads in Afghanistan. 
+
+ START TIME IS :14:20:56.509
+
+ END TIME IS :14:20:56.558
+start of sentence
+14:20:56.558
+end of sentence
+14:20:56.564
+END OF EXECUTION 
+subjectmujahidin
+verbcontrol
+objectroad
+2SUB:mujahidin VERB:control OBJ:road P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+Processed text is :  4 . The mujahidin have controlled the main communication roads in Afghanistan .
+********* Finished sent # 33407 **************
+textid: 1505Input text is :  5. The mujahidin's skills in killing and eradicating the US occupying soldiers have increased. text id : 1505
+***********output************* 5. The mujahidin's skills in killing and eradicating the US occupying soldiers have increased. 
+
+ START TIME IS :14:20:56.587
+
+ END TIME IS :14:20:56.677
+start of sentence
+14:20:56.677
+end of sentence
+14:20:56.686
+END OF EXECUTION 
+END OF EXECUTION 
+Processed text is :  5 . The mujahidin 's skills in killing and eradicating the US occupying soldiers have increased .
+********* Finished sent # 33408 **************
+textid: 1505Input text is :  From the above-mentioned comparison, it is evident to all to what extent the Americans and their Afghan allies have failed. However, due to their stupidity and stubbornness, the reckless rulers of the White House continue to occupy Afghanistan, harm the oppressed Afghan people, and kill Americans. text id : 1505
+***********output************* From the above-mentioned comparison, it is evident to all to what extent the Americans and their Afghan allies have failed. However, due to their stupidity and stubbornness, the reckless rulers of the White House continue to occupy Afghanistan, harm the oppressed Afghan people, and kill Americans. 
+
+ START TIME IS :14:20:56.705
+
+ END TIME IS :14:20:59.223
+start of sentence
+14:20:59.223
+end of sentence
+14:20:59.245
+subjectcomparison
+verbbe
+objectevident
+12SUB:comparison VERB:be OBJ:evident P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjectruler
+verboccupy
+objectafghanistan
+17SUB:ruler SUB POBJ:of house VERB:occupy OBJ:afghanistan P OBJ:
+Record is inserted into DBUSER table!
+subjectruler
+verbharm
+objectpeople
+17SUB:ruler SUB POBJ:of house VERB:harm OBJ:people P OBJ:
+Record is inserted into DBUSER table!
+subjectruler
+verbkill
+objectamerican
+17SUB:ruler SUB POBJ:of house VERB:kill OBJ:american P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+Processed text is :  From the above-mentioned comparison , the above-mentioned comparison is evident to all to what extent the Americans and their Afghan allies have failed . However , due to the Americans and their Afghan allies stupidity and stubbornness , the reckless rulers of the White House continue to occupy Afghanistan , harm the oppressed Afghan people , and kill Americans .
+********* Finished sent # 33409 **************
+textid: 1505Input text is :  While the Islamic Emirate of Afghanistan considers defending its Islamic country and performing jihad against the invading Americans an Islamic responsibility and a legitimate duty, at the same time, it advises the stupid US rulers to come out of their coma. The Islamic Emirate of Afghanistan calls on them to withdraw immediately from Afghanistan and to have mercy on the troubled and exhausted people of Afghanistan. text id : 1505
+***********output************* While the Islamic Emirate of Afghanistan considers defending its Islamic country and performing jihad against the invading Americans an Islamic responsibility and a legitimate duty, at the same time, it advises the stupid US rulers to come out of their coma. The Islamic Emirate of Afghanistan calls on them to withdraw immediately from Afghanistan and to have mercy on the troubled and exhausted people of Afghanistan. 
+
+ START TIME IS :14:20:59.276
+
+ END TIME IS :14:21:02.144
+start of sentence
+14:21:02.144
+end of sentence
+14:21:02.169
+subjectemirate
+verbconsider
+objectjihad
+4SUB:emirate SUB POBJ:of afghanistan VERB:consider OBJ:jihad P OBJ:
+Record is inserted into DBUSER table!
+subjectemirate
+verbadvise
+objectruler
+38SUB:emirate SUB POBJ:of afghanistan VERB:advise OBJ:ruler P OBJ: AM-TMP:at time
+Record is inserted into DBUSER table!
+subjectruler
+verbadvise
+objectcome
+45SUB:ruler VERB:advise OBJ:come P OBJ: AM-TMP:at time
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjectemirate
+verbcall
+objectfrom
+3SUB:emirate SUB POBJ:of afghanistan VERB:call OBJ:from P OBJ:afghanistan
+Record is inserted into DBUSER table!
+subjectemirate
+verbhave
+objectmercy
+3SUB:emirate SUB POBJ:of afghanistan VERB:have OBJ:mercy P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+Processed text is :  While the Islamic Emirate of Afghanistan considers defending the Islamic Emirate of Afghanistan Islamic country and performing jihad against the invading Americans an Islamic responsibility and a legitimate duty , at the same time , the Islamic Emirate of Afghanistan advises the stupid US rulers to come out of the stupid US rulers coma . The Islamic Emirate of Afghanistan calls on the to withdraw immediately from Afghanistan and to have mercy on the troubled and exhausted people of Afghanistan .
+********* Finished sent # 33410 **************
+textid: 1331Input text is : text id : 1331
+***********output*************
+
+ START TIME IS :14:21:02.202
+
+ END TIME IS :14:21:02.203
+start of sentence
+14:21:02.203
+end of sentence
+14:21:02.204
+Processed text is : 
+********* Finished sent # 33411 **************
+textid: 1331Input text is : text id : 1331
+***********output*************
+
+ START TIME IS :14:21:02.204
+
+ END TIME IS :14:21:02.204
+start of sentence
+14:21:02.204
+end of sentence
+14:21:02.205
+Processed text is : 
+********* Finished sent # 33412 **************
+textid: 1505Input text is :  The Afghan mujahidin consider all forms of sacrifice, including martyrdom in the trenches of jihad and defense, as a source of pride for themselves, following jihad and continuous resistance that have lasted for nine years. However, it seems that Americans in general are not at all patient or enduring in watching the coffins of their sons in exchange for fulfilling special benefits for rich Americans. text id : 1505
+***********output************* The Afghan mujahidin consider all forms of sacrifice, including martyrdom in the trenches of jihad and defense, as a source of pride for themselves, following jihad and continuous resistance that have lasted for nine years. However, it seems that Americans in general are not at all patient or enduring in watching the coffins of their sons in exchange for fulfilling special benefits for rich Americans. 
+
+ START TIME IS :14:21:02.206
+
+ END TIME IS :14:21:03.058
+start of sentence
+14:21:03.058
+end of sentence
+14:21:03.080
+subjectmujahidin
+verbconsider
+objectform
+3SUB:mujahidin VERB:consider OBJ:form P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjectamerican
+verbbe
+objectpatient
+6SUB:american SUB POBJ:in null VERB:be OBJ:patient P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+Processed text is :  The Afghan mujahidin consider all forms of sacrifice , including martyrdom in the trenches of jihad and defense , as a source of pride for themselves , following jihad and continuous resistance that have lasted for nine years . However , it seems that Americans in general are not at all patient or enduring in watching the coffins of general sons in exchange for fulfilling special benefits for rich Americans .
+********* Finished sent # 33413 **************
+textid: 1505Input text is :  On the ninth anniversary of the US invasion, General David Petraeus still has the opportunity and he can make use of it and depart promptly from Afghanistan with his psychologically devastated forces. If he misses this opportunity, he will be like the case of the British Dr Brydon [British surgeon often reported as the only survivor of a British Army expedition traveling from Kabul to Jalalabad in 1842]. Instead of hoping to rescue the American empire as a whole, he would hope that he himself only be rescued. "And soon will the unjust assailants know what vicissitudes their affairs will take!" [partial Koranic verse, Al-Shu'ra, 26:227] text id : 1505
+***********output************* On the ninth anniversary of the US invasion, General David Petraeus still has the opportunity and he can make use of it and depart promptly from Afghanistan with his psychologically devastated forces. If he misses this opportunity, he will be like the case of the British Dr Brydon [British surgeon often reported as the only survivor of a British Army expedition traveling from Kabul to Jalalabad in 1842]. Instead of hoping to rescue the American empire as a whole, he would hope that he himself only be rescued. "And soon will the unjust assailants know what vicissitudes their affairs will take!" [partial Koranic verse, Al-Shu'ra, 26:227] 
+
+ START TIME IS :14:21:03.110
+
+ END TIME IS :14:21:10.755
+start of sentence
+14:21:10.755
+end of sentence
+14:21:10.793
+subjectopportunity
+verbuse
+objectof
+16SUB:opportunity VERB:use OBJ:of P OBJ:ninth anniversary
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjectpetraeus
+verbmiss
+objectopportunity
+4SUB:petraeus VERB:miss OBJ:opportunity P OBJ:
+Record is inserted into DBUSER table!
+subjectpetraeus
+verbbe
+objectlike
+11SUB:petraeus VERB:be OBJ:like P OBJ:case
+Record is inserted into DBUSER table!
+subjectexpedition
+verbtravel
+objectfrom
+37SUB:expedition VERB:travel OBJ:from P OBJ:kabul AM-LOC:in rsb
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjectempire
+verbrescue
+objectas
+8SUB:empire VERB:rescue OBJ:as P OBJ:whole
+Record is inserted into DBUSER table!
+subjectpetraeus
+verbhope
+objecthe
+15SUB:petraeus VERB:hope OBJ:he P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjectassailant
+verbknow
+objectvicissitudes
+7SUB:assailant VERB:know OBJ:vicissitudes P OBJ: AM-TMP:soon
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+Processed text is :  On the ninth anniversary of the US invasion , General David Petraeus still has the opportunity and General David Petraeus can make use of the ninth anniversary of the US invasion and depart promptly from Afghanistan with General David Petraeus psychologically devastated forces . If General David Petraeus misses this opportunity , General David Petraeus will be like the case of the British Dr Brydon -LSB- British surgeon often reported as the only survivor of a British Army expedition traveling from Kabul to Jalalabad in 1842 -RSB- . Instead of hoping to rescue the American empire as a whole , General David Petraeus would hope that he General David Petraeus only be rescued . `` And soon will the unjust assailants know what vicissitudes their affairs will take ! '' -LSB- partial Koranic verse , Al-Shu ` ra , 26:227 -RSB-
+********* Finished sent # 33414 **************
+textid: 1507Input text is :  I will try here to write a brief biography for some people -- whether Americans, non-Americans, Muslims, or just regular people who did not accept the tyranny of the US -- who carried out military operations against the US.  I ask God to increase people with such qualities.  Moreover, I ask the brothers to interact on this topic. Almighty God says: "...and none can know the forces of thy Lord, except He," [partial Koranic verse, Al-Muddathir, 74:31]. text id : 1507
+ I will try here to write a brief biography for some people -- whether Americans, non-Americans, Muslims, or just regular people who did not accept the tyranny of the US -- who carried out military operations against the US.  I ask God to increase people with such qualities.  Moreover, I ask the brothers to interact on this topic. Almighty God says: "...and none can know the forces of thy Lord, except He," [partial Koranic verse, Al-Muddathir, 74:31]. 
+***********output************* I will try here to write a brief biography for some people , whether Americans, non-Americans, Muslims, or just regular people who did not accept the tyranny of the US , who carried out military operations against the US.  I ask God to increase people with such qualities.  Moreover, I ask the brothers to interact on this topic. Almighty God says: "...and none can know the forces of thy Lord, except He," [partial Koranic verse, Al-Muddathir, 74:31]. 
+
+ START TIME IS :14:21:10.859
+
+ END TIME IS :14:21:15.982
+start of sentence
+14:21:15.982
+end of sentence
+14:21:16.014
+subjecti
+verbtry
+objectbiography
+1SUB:i VERB:try OBJ:biography P OBJ: AM-LOC:here null
+Record is inserted into DBUSER table!
+subjecti
+verbwrite
+objectbiography
+1SUB:i VERB:write OBJ:biography P OBJ:
+Record is inserted into DBUSER table!
+subjectamerican
+verbaccept
+objecttyranny
+15SUB:american VERB:accept OBJ:tyranny P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjecti
+verbask
+objectgod
+1SUB:i VERB:ask OBJ:god P OBJ:
+Record is inserted into DBUSER table!
+subjectgod
+verbincrease
+objectpeople
+3SUB:god VERB:increase OBJ:people P OBJ:
+Record is inserted into DBUSER table!
+subjectincrease
+verbask
+objectgod
+5SUB:increase VERB:ask OBJ:god P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+subjecti
+verbask
+objectbrother
+3SUB:i VERB:ask OBJ:brother P OBJ:
+Record is inserted into DBUSER table!
+subjectbrother
+verbinteract
+objecton
+6SUB:brother VERB:interact OBJ:on P OBJ:topic
+Record is inserted into DBUSER table!
+subjectinteract
+verbask
+objectbrother
+8SUB:interact SUB POBJ:on topic VERB:ask OBJ:brother P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+END OF EXECUTION 
+subjectnone
+verbknow
+objectforce
+2SUB:none VERB:know OBJ:force P OBJ:
+Record is inserted into DBUSER table!
+END OF EXECUTION 
+Processed text is :  I will try here to write a brief biography for some people , whether Americans , non-Americans , Muslims , or just regular people who did not accept the tyranny of the US , who carried out military operations against the US . I ask God to increase people with such qualities . Moreover , I ask the brothers to interact on this topic . Almighty God says : '' ... and none can know the forces of thy Lord , except thy Lord , '' -LSB- partial Koranic verse , Al-Muddathir , 74:31 -RSB- .
+********* Finished sent # 33415 **************
+textid: 1507Input text is :  To be continued, God willing. text id : 1507
+***********output************* To be continued, God willing. 
+
+ START TIME IS :14:21:16.085
+
+ END TIME IS :14:21:16.106
+start of sentence
+14:21:16.106
+end of sentence
+14:21:16.111
+END OF EXECUTION 
+Processed text is :  To be continued , God willing .
+********* Finished sent # 33416 **************
+textid: 1507Input text is :  2. Richard Reid text id : 1507
+***********output************* 2. Richard Reid 
+
+ START TIME IS :14:21:16.122
+
+ END TIME IS :14:21:16.135
+start of sentence
+14:21:16.135
+end of sentence
+14:21:16.137
+END OF EXECUTION 
+Processed text is :  2 . Richard Reid
+********* Finished sent # 33417 **************
+textid: 1331Input text is : text id : 1331
+***********output*************
+
+ START TIME IS :14:21:16.147
+
+ END TIME IS :14:21:16.147
+start of sentence
+14:21:16.147
+end of sentence
+14:21:16.148
+Processed text is : 
+********* Finished sent # 33418 **************
+textid: 1507Input text is :  4. Major Nidal Malik Hasan text id : 1507
+***********output************* 4. Major Nidal Malik Hasan 
+
+ START TIME IS :14:21:16.148
+
+ END TIME IS :14:21:18.006
+start of sentence
+14:21:18.006
+end of sentence
+14:21:18.009
+END OF EXECUTION 
+Processed text is :  4 . Major Nidal Malik Hasan
+********* Finished sent # 33419 **************
+textid: 1507Input text is :  5. Umar Farouk AbdulMutallab text id : 1507
+***********output************* 5. Umar Farouk AbdulMutallab 
+
+ START TIME IS :14:21:18.020
+
+ END TIME IS :14:21:18.036
+start of sentence
+14:21:18.036
+end of sentence
+14:21:18.039
+END OF EXECUTION 
+Processed text is :  5 . Umar Farouk AbdulMutallab
+********* Finished sent # 33420 **************
+textid: 1507Input text is :  11. Zacarias Moussaoui text id : 1507
+***********output************* 11. Zacarias Moussaoui 
+
+ START TIME IS :14:21:18.050
+
+ END TIME IS :14:21:18.062
+start of sentence
+14:21:18.062
+end of sentence
+14:21:18.065
+END OF EXECUTION 
+Processed text is :  11 . Zacarias Moussaoui
+********* Finished sent # 33421 **************
+textid: 1435Input text is : text id : 1435
+***********output*************
+
+ START TIME IS :14:21:18.075
+
+ END TIME IS :14:21:18.076
+start of sentence
+14:21:18.076
+end of sentence
+14:21:18.077
+Processed text is : 
+********* Finished sent # 33422 **************
+textid: 1436Input text is : text id : 1436
+***********output*************
+
+ START TIME IS :14:21:18.077
+
+ END TIME IS :14:21:18.077
+start of sentence
+14:21:18.077
+end of sentence
+14:21:18.078
+Processed text is : 
+********* Finished sent # 33423 **************
+textid: 1507Input text is :  6. Luqman Amin Abdallah text id : 1507
+***********output************* 6. Luqman Amin Abdallah 
+
+ START TIME IS :14:21:18.078
+
+ END TIME IS :14:21:18.091
+start of sentence
+14:21:18.091
+end of sentence
+14:21:18.094
+END OF EXECUTION 
+Processed text is :  6 . Luqman Amin Abdallah
+********* Finished sent # 33424 **************
+textid: 1507Input text is :  7. Humam Khalil al-Balawi (Abu-Dujanah Al-Khurasani) text id : 1507
+***********output************* 7. Humam Khalil al-Balawi (Abu-Dujanah Al-Khurasani) 
+
+ START TIME IS :14:21:18.103
+
+ END TIME IS :14:21:18.139
+start of sentence
+14:21:18.139
+end of sentence
+14:21:18.142
+END OF EXECUTION 
+Processed text is :  7 . Humam Khalil al-Balawi -LRB- Abu-Dujanah Al-Khurasani -RRB-
+********* Finished sent # 33425 **************
+textid: 1507Input text is :  An agent: A man who spies for a group on another group. text id : 1507
+***********output************* An agent: A man who spies for a group on another group. 
+
+ START TIME IS :14:21:18.153
+
+ END TIME IS :14:21:18.211
+start of sentence
+14:21:18.211
+end of sentence
+14:21:18.217
+END OF EXECUTION 
+Processed text is :  An agent : A man who spies for a group on another group .
+********* Finished sent # 33426 **************
+textid: 1507Input text is :  13. Sharif Mobley text id : 1507
+***********output************* 13. Sharif Mobley 
+
+ START TIME IS :14:21:18.227
+
+ END TIME IS :14:21:18.238
+start of sentence
+14:21:18.238
+end of sentence
+14:21:18.241
+END OF EXECUTION 
+Processed text is :  13 . Sharif Mobley
+********* Finished sent # 33427 **************
+textid: 1229Input text is : text id : 1229
+***********output*************
+
+ START TIME IS :14:21:18.250
+
+ END TIME IS :14:21:18.250
+start of sentence
+14:21:18.250
+end of sentence
+14:21:18.251
+Processed text is : 
+********* Finished sent # 33428 **************
+textid: 1229Input text is : text id : 1229
+***********output*************
+
+ START TIME IS :14:21:18.251
+
+ END TIME IS :14:21:18.251
+start of sentence
+14:21:18.251
+end of sentence
+14:21:18.252
+Processed text is : 
+********* Finished sent # 33429 **************
+textid: 1507Input text is :  8. Dr Aafia Siddiqui text id : 1507
+***********output************* 8. Dr Aafia Siddiqui 
+
+ START TIME IS :14:21:18.252
+
+ END TIME IS :14:21:18.275
+start of sentence
+14:21:18.275
+end of sentence
+14:21:18.277
+END OF EXECUTION 
+Processed text is :  8 . Dr Aafia Siddiqui
+********* Finished sent # 33430 **************
+textid: 1507Input text is :  9. Jose Padilla (Abdallah Al-Muhajir) text id : 1507
+***********output************* 9. Jose Padilla (Abdallah Al-Muhajir) 
+
+ START TIME IS :14:21:18.295
+
+ END TIME IS :14:21:18.313
+start of sentence
+14:21:18.313
+end of sentence
+14:21:18.315
+END OF EXECUTION 
+Processed text is :  9 . Jose Padilla -LRB- Abdallah Al-Muhajir -RRB-
+********* Finished sent # 33431 **************
+textid: 1507Input text is :  10. Adnan Shukrijum'ah (Ja'far the Pilot) text id : 1507
+***********output************* 10. Adnan Shukrijum'ah (Ja'far the Pilot) 
+
+ START TIME IS :14:21:18.325
+
+ END TIME IS :14:21:18.362
+start of sentence
+14:21:18.362
+end of sentence
+14:21:18.365
+END OF EXECUTION 
+Processed text is :  10 . Adnan Shukrijum ` ah -LRB- Ja ` far the Pilot -RRB-
+********* Finished sent # 33432 **************
+textid: 1507Input text is :  12. Hasan Akbar text id : 1507
+***********output************* 12. Hasan Akbar 
+
+ START TIME IS :14:21:18.375
+
+ END TIME IS :14:21:18.385
+start of sentence
+14:21:18.385
+end of sentence
+14:21:18.388
+END OF EXECUTION 
+Processed text is :  12 . Hasan Akbar
+********* Finished sent # 33433 **************
+textid: 1507Input text is :  Day: 23 March 2003, beginning of the occupation of Iraq. text id : 1507
+***********output************* Day: 23 March 2003, beginning of the occupation of Iraq. 
+
+ START TIME IS :14:21:18.398
+
+ END TIME IS :14:21:18.460
+start of sentence
+14:21:18.460
+end of sentence
+14:21:18.467
+END OF EXECUTION 
+Processed text is :  Day : 23 March 2003 , beginning of the occupation of Iraq .
+********* Finished sent # 33434 **************
+textid: 1507Input text is :  Outcome: A captain in the army and a commander in the Air Force were killed, and 14 other soldiers were wounded. text id : 1507
+***********output************* Outcome: A captain in the army and a commander in the Air Force were killed, and 14 other soldiers were wounded. 
+
+ START TIME IS :14:21:18.478
+
+ END TIME IS :14:21:18.689
+start of sentence
+14:21:18.689
+end of sentence
+14:21:18.700
+END OF EXECUTION 
+Processed text is :  Outcome : A captain in the army and a commander in the Air Force were killed , and 14 other soldiers were wounded .
+********* Finished sent # 33435 **************
+textid: 1507Input text is :  14 and 15 Colleen La Rose (Jihadi Jane) and Jamie Pauleen Ramirez text id : 1507
+***********output************* 14 and 15 Colleen La Rose (Jihadi Jane) and Jamie Pauleen Ramirez 
+
+ START TIME IS :14:21:18.711
+
+ END TIME IS :14:21:20.797
+start of sentence
+14:21:20.797
+end of sentence
+14:21:20.799
+Processed text is :  14 and 15 Colleen La Rose -LRB- Jihadi Jane -RRB- and Jamie Pauleen Ramirez
+********* Finished sent # 33436 **************
+textid: 1512Input text is :  Statement (227/8) text id : 1512
+***********output************* Statement (227/8) 
+
+ START TIME IS :14:21:20.799
+
+ END TIME IS :14:21:20.809
+start of sentence
+14:21:20.809
+end of sentence
+14:21:20.811
+Processed text is :  Statement -LRB- 227/8 -RRB-
+********* Finished sent # 33437 **************
+textid: 1507Input text is :  17. Mir Aimal Kansi text id : 1507
+***********output************* 17. Mir Aimal Kansi 
+
+ START TIME IS :14:21:20.811
+
+ END TIME IS :14:21:20.825
+start of sentence
+14:21:20.825
+end of sentence
+14:21:20.829
+END OF EXECUTION 
+Processed text is :  17 . Mir Aimal Kansi
+********* Finished sent # 33438 **************
+Total time taken : 73137431

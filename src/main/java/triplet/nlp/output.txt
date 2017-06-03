@@ -1,0 +1,18 @@
+1	Now	now	RB	_	2	advmod	2:A2
+2	is	be	VBZ	pb=be.01|vn=unknown	0	root	_
+3	the	the	DT	_	4	det	_
+4	time	time	NN	_	2	nsubj	2:A1
+5	for	for	IN	_	10	mark	_
+6	all	all	DT	_	8	det	_
+7	good	good	JJ	_	8	amod	_
+8	men	man	NNS	_	10	nsubj	10:A1
+9	to	to	TO	_	10	aux	_
+10	come	come	VB	pb=come.01|vn=48.1.1	4	rcmod	_
+11	to	to	IN	_	10	prep	10:A4
+12	the	the	DT	_	13	det	_
+13	aid	aid	NN	_	11	pobj	_
+14	of	of	IN	_	13	prep	_
+15	their	their	PRP$	_	16	poss	_
+16	country	country	NN	_	14	pobj	_
+17	.	.	.	_	2	punct	_
+
