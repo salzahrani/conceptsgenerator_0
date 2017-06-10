@@ -64,6 +64,7 @@
             <artifactId>javax.json-api</artifactId>
             <version>1.0</version>
         </dependency>
+
         <!-- https://mvnrepository.com/artifact/joda-time/joda-time -->
         <dependency>
             <groupId>joda-time</groupId>
@@ -117,6 +118,7 @@
             <artifactId>commons-lang3</artifactId>
             <version>3.5</version>
         </dependency>
+
      </dependencies>
 
 </project>
