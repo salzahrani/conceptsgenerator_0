@@ -23,7 +23,7 @@ public class readJsonTest
 
 
 
-        String JSON_FILE = "/Users/sultanalzahrani/IdeaProjects/conceptsgenerator/corpus/raw/json/test.json";
+        String JSON_FILE = "./corpus/raw/json/test.json";
         try {
         InputStream fis_0 = new FileInputStream(JSON_FILE);
 

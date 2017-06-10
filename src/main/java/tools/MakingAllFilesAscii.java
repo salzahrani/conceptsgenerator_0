@@ -67,50 +67,50 @@ public class MakingAllFilesAscii
         return content.replaceAll("\\P{InBasic_Latin}", "");
     }
 
-        public  static String readFile_as_Text(String fileName)
-        {
-            BufferedReader br = null;
-            FileReader fr = null;
-            StringBuffer sb = new StringBuffer();
+    public  static String readFile_as_Text(String fileName)
+    {
+        BufferedReader br = null;
+        FileReader fr = null;
+        StringBuffer sb = new StringBuffer();
+
+        try {
+
+            fr = new FileReader(fileName);
+            br = new BufferedReader(fr);
+
+            String sCurrentLine;
+
+            br = new BufferedReader(new FileReader(fileName));
+
+            while ((sCurrentLine = br.readLine()) != null) {
+                //System.out.println(sCurrentLine);
+                sb.append(sCurrentLine + "\n");
+            }
+
+        } catch (IOException e) {
+
+            e.printStackTrace();
+
+        } finally {
 
             try {
 
-                fr = new FileReader(fileName);
-                br = new BufferedReader(fr);
+                if (br != null)
+                    br.close();
 
-                String sCurrentLine;
+                if (fr != null)
+                    fr.close();
 
-                br = new BufferedReader(new FileReader(fileName));
+            } catch (IOException ex) {
 
-                while ((sCurrentLine = br.readLine()) != null) {
-                    System.out.println(sCurrentLine);
-                    sb.append(sCurrentLine + "\n");
-                }
-
-            } catch (IOException e) {
-
-                e.printStackTrace();
-
-            } finally {
-
-                try {
-
-                    if (br != null)
-                        br.close();
-
-                    if (fr != null)
-                        fr.close();
-
-                } catch (IOException ex) {
-
-                    ex.printStackTrace();
-
-                }
+                ex.printStackTrace();
 
             }
-            return sb.toString();
 
         }
+        return sb.toString();
+
+    }
 
 
 }
